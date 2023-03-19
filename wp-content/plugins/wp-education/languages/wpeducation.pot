@@ -1,0 +1,3256 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Education\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-15 08:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4"
+
+#: single-events.php:45 single-events.php:50 single-events.php:55
+#: single-events.php:60 single-events.php:65 single-events.php:69
+#: includes/widgets/wpeducation_addons_course.php:1224
+#: includes/widgets/wpeducation_addons_course.php:1239
+#: includes/widgets/wpeducation_addons_course.php:1240
+#: includes/widgets/wpeducation_addons_events.php:1146
+#: includes/widgets/wpeducation_addons_events.php:1146
+#: includes/widgets/wpeducation_addons_events.php:1159
+#: includes/widgets/wpeducation_addons_events.php:1160
+msgid " "
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:234
+msgid " Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:134
+msgid "#"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:87
+#: includes/widgets/wpeducation_addons_course.php:259
+#: includes/widgets/wpeducation_addons_events.php:259
+#: includes/widgets/wpeducation_addons_gallery.php:108
+#: includes/widgets/wpeducation_addons_gallery.php:124
+#: includes/widgets/wpeducation_addons_gallery.php:139
+#: includes/widgets/wpeducation_addons_teachers.php:167
+msgid "1"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:88
+#: includes/widgets/wpeducation_addons_course.php:260
+#: includes/widgets/wpeducation_addons_events.php:260
+#: includes/widgets/wpeducation_addons_gallery.php:109
+#: includes/widgets/wpeducation_addons_gallery.php:125
+#: includes/widgets/wpeducation_addons_gallery.php:140
+#: includes/widgets/wpeducation_addons_teachers.php:168
+msgid "2"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:89
+#: includes/widgets/wpeducation_addons_course.php:261
+#: includes/widgets/wpeducation_addons_events.php:261
+#: includes/widgets/wpeducation_addons_gallery.php:110
+#: includes/widgets/wpeducation_addons_gallery.php:126
+#: includes/widgets/wpeducation_addons_gallery.php:141
+#: includes/widgets/wpeducation_addons_teachers.php:169
+msgid "3"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:90
+#: includes/widgets/wpeducation_addons_course.php:262
+#: includes/widgets/wpeducation_addons_events.php:262
+#: includes/widgets/wpeducation_addons_gallery.php:111
+#: includes/widgets/wpeducation_addons_gallery.php:127
+#: includes/widgets/wpeducation_addons_gallery.php:142
+#: includes/widgets/wpeducation_addons_teachers.php:170
+msgid "4"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:91
+#: includes/widgets/wpeducation_addons_course.php:263
+#: includes/widgets/wpeducation_addons_events.php:263
+#: includes/widgets/wpeducation_addons_gallery.php:112
+#: includes/widgets/wpeducation_addons_teachers.php:171
+msgid "5"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:92
+#: includes/widgets/wpeducation_addons_course.php:264
+#: includes/widgets/wpeducation_addons_events.php:264
+#: includes/widgets/wpeducation_addons_gallery.php:113
+#: includes/widgets/wpeducation_addons_teachers.php:172
+msgid "6"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_progress_bar.php:65
+msgid "70%"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_schedule.php:58
+msgid "9AM - 3PM"
+msgstr ""
+
+#: wpeducation.php:118
+#, php-format
+msgid ""
+"<strong>WP Education Addons for Cmb2</strong> requires %1$s\"Cmb2\"%2$s "
+"plugin to be installed and activated. Please install Cmb2 to continue."
+msgstr ""
+
+#: wpeducation.php:111
+msgid ""
+"<strong>WP Education Addons for Cmb2</strong> Requires Cmb2 plugin to be "
+"active. Please activate Cmb2 to continue."
+msgstr ""
+
+#: wpeducation.php:173
+#, php-format
+msgid ""
+"<strong>WP Education Addons for contact-form-7</strong> requires "
+"%1$s\"contact-form-7\"%2$s plugin to be installed and activated. Please "
+"install contact-form-7 to continue."
+msgstr ""
+
+#: wpeducation.php:166
+msgid ""
+"<strong>WP Education Addons for contact-form-7</strong> requires contact-"
+"form-7 plugin to be active. Please activate contact-form-7 to continue."
+msgstr ""
+
+#: wpeducation.php:146
+#, php-format
+msgid ""
+"<strong>WP Education Addons for Elementor</strong> requires "
+"%1$s\"Elementor\"%2$s plugin to be installed and activated. Please install "
+"Elementor to continue."
+msgstr ""
+
+#: wpeducation.php:139
+msgid ""
+"<strong>WP Education Addons for Elementor</strong> Requires Elementor plugin "
+"to be active. Please activate Elementor to continue."
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:30
+msgid "Accordion"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:65
+msgid "Accordion List"
+msgstr ""
+
+#: wpeducation.php:112
+msgid "Activate CMB2"
+msgstr ""
+
+#: wpeducation.php:167
+msgid "Activate contact-form-7"
+msgstr ""
+
+#: wpeducation.php:140
+msgid "Activate Elementor"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:151
+msgid "Active Background"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:719
+msgid "Active Bullet Size"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:133
+msgid ""
+"Add a strong one liner supporting the heading above and giving users a "
+"reason to click on the button below."
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:180
+msgid "Add an optional description to your map pin"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:100
+msgid "Add Another Icon"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:16
+#: admin/wpeducation_custom-post-type.php:88
+#: admin/wpeducation_custom-post-type.php:188
+#: admin/wpeducation_custom-post-type.php:260
+msgid "Add New"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:15
+msgid "Add New Course"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:259
+msgid "Add New Events"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:187
+msgid "Add New Gallery"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:162
+msgid "Add New Tag"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:87
+msgid "Add New Teachers"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:165
+msgid "Add or remove tags"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:97
+msgid "Add Second Icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:118
+msgid "Add testimonial description here. Edit and place your own text."
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:437
+msgid "After"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:187
+#: includes/widgets/wpeducation_addons_counter.php:255
+#: includes/widgets/wpeducation_addons_counter.php:342
+#: includes/widgets/wpeducation_addons_gallery.php:324
+#: includes/widgets/wpeducation_addons_google_maps.php:387
+#: includes/widgets/wpeducation_addons_google_maps.php:469
+#: includes/widgets/wpeducation_addons_icon_list.php:145
+#: includes/widgets/wpeducation_addons_info_box.php:177
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:184
+#: includes/widgets/wpeducation_addons_section_divider.php:168
+#: includes/widgets/wpeducation_addons_service_box.php:382
+#: includes/widgets/wpeducation_addons_service_box.php:629
+#: includes/widgets/wpeducation_addons_slider.php:199
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:73
+msgid "All Button Text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:64
+msgid "All Menu Show/Hide"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:157
+msgid "All Tags"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:70
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:74
+msgid ""
+"Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry "
+"richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard "
+"dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon "
+"tempor, sunt aliqua put a bird on it squid single-origin coffee nulla "
+"assumenda shoreditch et."
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:161
+#: includes/widgets/wpeducation_addons_events.php:161
+#: includes/widgets/wpeducation_addons_slider.php:179
+#: includes/widgets/wpeducation_addons_teachers.php:94
+msgid "Arrow"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:658
+msgid "Arrow Border Radius"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:990
+#: includes/widgets/wpeducation_addons_events.php:910
+msgid "Arrow Button"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:642
+#: includes/widgets/wpeducation_addons_slider.php:679
+msgid "Arrow Button background color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:627
+msgid "Arrow Button Icon color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:177
+#: includes/widgets/wpeducation_addons_events.php:177
+msgid "Arrow Middle"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:608
+msgid "Arrow style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:173
+#: includes/widgets/wpeducation_addons_events.php:173
+msgid "Arrow Style Middle/Top"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:178
+#: includes/widgets/wpeducation_addons_events.php:178
+msgid "Arrow Top"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:153
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:134
+#: includes/widgets/wpeducation_addons_events.php:134
+#: includes/widgets/wpeducation_addons_slider.php:154
+#: includes/widgets/wpeducation_addons_teachers.php:65
+msgid "Auto play"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:146
+#: includes/widgets/wpeducation_addons_events.php:146
+#: includes/widgets/wpeducation_addons_slider.php:164
+#: includes/widgets/wpeducation_addons_teachers.php:78
+msgid "Auto play speed"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:201
+msgid "Autoplay?"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:137
+#: includes/widgets/wpeducation_addons_progress_bar.php:50
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:80
+#: includes/widgets/wpeducation_addons_call_to_action.php:246
+#: includes/widgets/wpeducation_addons_call_to_action.php:466
+#: includes/widgets/wpeducation_addons_call_to_action.php:520
+#: includes/widgets/wpeducation_addons_service_box.php:238
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:82
+msgid "Background Fixed Image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:81
+#: includes/widgets/wpeducation_addons_call_to_action.php:172
+msgid "Background Image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:44
+msgid "Basic"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:410
+msgid "Before"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:110
+msgid "Benefits Box Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:96
+msgid "Benefits description"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:74
+msgid "Benefits icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:35
+msgid "Benefits Icon type"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:48
+msgid "Benefits image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:28
+msgid "Benefits Settings"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:86
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:89
+msgid "Benefits Title"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:1012
+#: includes/widgets/wpeducation_addons_events.php:1039
+msgid "BG COlor"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:216
+#: includes/widgets/wpeducation_addons_blog.php:510
+#: includes/widgets/wpeducation_addons_blog.php:602
+#: includes/widgets/wpeducation_addons_blog.php:685
+#: includes/widgets/wpeducation_addons_course.php:545
+#: includes/widgets/wpeducation_addons_course.php:725
+#: includes/widgets/wpeducation_addons_course.php:867
+#: includes/widgets/wpeducation_addons_course.php:1119
+#: includes/widgets/wpeducation_addons_events.php:426
+#: includes/widgets/wpeducation_addons_events.php:678
+#: includes/widgets/wpeducation_addons_events.php:809
+#: includes/widgets/wpeducation_addons_events.php:932
+#: includes/widgets/wpeducation_addons_info_box.php:145
+#: includes/widgets/wpeducation_addons_info_box.php:402
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:142
+#: includes/widgets/wpeducation_addons_service_box.php:359
+#: includes/widgets/wpeducation_addons_service_box.php:605
+msgid "BG Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:526
+#: includes/widgets/wpeducation_addons_blog.php:618
+#: includes/widgets/wpeducation_addons_blog.php:701
+#: includes/widgets/wpeducation_addons_course.php:883
+#: includes/widgets/wpeducation_addons_events.php:825
+msgid "BG Color Hover"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:156
+#: includes/widgets/wpeducation_addons_info_box.php:413
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:154
+#: includes/widgets/wpeducation_addons_service_box.php:370
+#: includes/widgets/wpeducation_addons_service_box.php:617
+msgid "Bg Color Hover"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:678
+msgid "Blog Box Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:595
+msgid "Blog Content Box Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:183
+msgid "Blog Date"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_events.php:275
+msgid "Book Now button Text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:262
+#: includes/widgets/wpeducation_addons_blog.php:658
+#: includes/widgets/wpeducation_addons_blog.php:741
+#: includes/widgets/wpeducation_addons_call_to_action.php:283
+#: includes/widgets/wpeducation_addons_call_to_action.php:479
+#: includes/widgets/wpeducation_addons_countdown.php:107
+#: includes/widgets/wpeducation_addons_course.php:755
+#: includes/widgets/wpeducation_addons_course.php:913
+#: includes/widgets/wpeducation_addons_course.php:1028
+#: includes/widgets/wpeducation_addons_course.php:1135
+#: includes/widgets/wpeducation_addons_events.php:694
+#: includes/widgets/wpeducation_addons_events.php:948
+#: includes/widgets/wpeducation_addons_events.php:1054
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:167
+#: includes/widgets/wpeducation_addons_schedule.php:132
+#: includes/widgets/wpeducation_addons_service_box.php:275
+#: includes/widgets/wpeducation_addons_testimonial.php:371
+#: includes/widgets/wpeducation_addons_testimonial.php:454
+msgid "Border"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:533
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:667
+#: includes/widgets/wpeducation_addons_blog.php:750
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:176
+msgid "Border Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:248
+#: includes/widgets/wpeducation_addons_blog.php:542
+#: includes/widgets/wpeducation_addons_call_to_action.php:291
+#: includes/widgets/wpeducation_addons_call_to_action.php:487
+#: includes/widgets/wpeducation_addons_countdown.php:93
+#: includes/widgets/wpeducation_addons_course.php:741
+#: includes/widgets/wpeducation_addons_course.php:899
+#: includes/widgets/wpeducation_addons_course.php:921
+#: includes/widgets/wpeducation_addons_events.php:841
+#: includes/widgets/wpeducation_addons_google_maps.php:515
+#: includes/widgets/wpeducation_addons_section_divider.php:764
+#: includes/widgets/wpeducation_addons_service_box.php:283
+#: includes/widgets/wpeducation_addons_slider.php:493
+#: includes/widgets/wpeducation_addons_testimonial.php:379
+#: includes/widgets/wpeducation_addons_testimonial.php:473
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:555
+#: includes/widgets/wpeducation_addons_course.php:934
+#: includes/widgets/wpeducation_addons_events.php:854
+msgid "Border Radius Hover"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:226
+msgid "Bottom"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:449
+msgid "Box Bg Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:668
+msgid "Box Bg Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:619
+#: includes/widgets/wpeducation_addons_events.php:664
+#: includes/widgets/wpeducation_addons_gallery.php:281
+#: includes/widgets/wpeducation_addons_info_box.php:169
+msgid "Box Border"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:679
+#: includes/widgets/wpeducation_addons_events.php:747
+msgid "Box Border Hover"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:607
+#: includes/widgets/wpeducation_addons_events.php:652
+msgid "Box Border Radius"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:522
+#: includes/widgets/wpeducation_addons_events.php:567
+msgid "Box Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:698
+msgid "Bullet Size"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:457
+#: includes/widgets/wpeducation_addons_slider.php:544
+msgid "Button background color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:373
+#: includes/widgets/wpeducation_addons_teachers.php:738
+msgid "Button BG Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:754
+msgid "Button BG Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:389
+#: includes/widgets/wpeducation_addons_gallery.php:653
+#: includes/widgets/wpeducation_addons_slider.php:485
+#: includes/widgets/wpeducation_addons_teachers.php:771
+msgid "Button Border"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:562
+msgid "Button border color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:358
+#: includes/widgets/wpeducation_addons_teachers.php:706
+msgid "Button Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:637
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:622
+#: includes/widgets/wpeducation_addons_teachers.php:722
+msgid "Button Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:154
+msgid "Button Link"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:461
+#: includes/widgets/wpeducation_addons_call_to_action.php:395
+#: includes/widgets/wpeducation_addons_events.php:760
+msgid "Button Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:421
+msgid "Button style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:144
+#: includes/widgets/wpeducation_addons_call_to_action.php:147
+#: includes/widgets/wpeducation_addons_slider.php:101
+msgid "Button Text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:440
+msgid "Button Text color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:1083
+#: includes/widgets/wpeducation_addons_events.php:1003
+msgid "Button Top Position"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:197
+msgid "Call to Action Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:115
+#: includes/widgets/wpeducation_addons_events.php:115
+msgid "Carousel"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:974
+#: includes/widgets/wpeducation_addons_events.php:894
+msgid "Carousel Button"
+msgstr ""
+
+#: wpeducation.php:205 wpeducation.php:267 wpeducation.php:326
+#: wpeducation.php:386
+msgid "Categories"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:567
+msgid "Category Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:582
+msgid "Category Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:63
+#: includes/widgets/wpeducation_addons_counter.php:195
+#: includes/widgets/wpeducation_addons_counter.php:263
+#: includes/widgets/wpeducation_addons_counter.php:350
+#: includes/widgets/wpeducation_addons_course.php:568
+#: includes/widgets/wpeducation_addons_events.php:613
+#: includes/widgets/wpeducation_addons_gallery.php:332
+#: includes/widgets/wpeducation_addons_google_maps.php:395
+#: includes/widgets/wpeducation_addons_google_maps.php:477
+#: includes/widgets/wpeducation_addons_icon_list.php:153
+#: includes/widgets/wpeducation_addons_info_box.php:185
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:192
+#: includes/widgets/wpeducation_addons_section_divider.php:177
+#: includes/widgets/wpeducation_addons_section_divider.php:222
+#: includes/widgets/wpeducation_addons_section_divider.php:490
+#: includes/widgets/wpeducation_addons_section_divider.php:588
+#: includes/widgets/wpeducation_addons_section_divider.php:718
+#: includes/widgets/wpeducation_addons_service_box.php:205
+#: includes/widgets/wpeducation_addons_service_box.php:390
+#: includes/widgets/wpeducation_addons_service_box.php:637
+#: includes/widgets/wpeducation_addons_slider.php:207
+#: includes/widgets/wpeducation_addons_testimonial.php:319
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:72
+msgid "Center Latitude"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:74
+#: includes/widgets/wpeducation_addons_google_maps.php:84
+msgid "Center latitude and longitude are required to identify your location"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:36
+msgid "Center Location"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:82
+msgid "Center Longitude"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:166
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:41
+msgid "Class Date"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:65
+msgid "Class Size"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:76
+#: includes/widgets/wpeducation_addons_testimonial.php:639
+msgid "Client Rating"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:647
+msgid "Client Rating Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:111
+msgid "Codetic"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_events.php:1024
+msgid "COlor"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:116
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:176
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:230
+#: includes/widgets/wpeducation_addons_blog.php:130
+#: includes/widgets/wpeducation_addons_blog.php:191
+#: includes/widgets/wpeducation_addons_blog.php:333
+#: includes/widgets/wpeducation_addons_blog.php:409
+#: includes/widgets/wpeducation_addons_blog.php:469
+#: includes/widgets/wpeducation_addons_call_to_action.php:339
+#: includes/widgets/wpeducation_addons_call_to_action.php:368
+#: includes/widgets/wpeducation_addons_call_to_action.php:596
+#: includes/widgets/wpeducation_addons_course.php:700
+#: includes/widgets/wpeducation_addons_course.php:826
+#: includes/widgets/wpeducation_addons_course.php:997
+#: includes/widgets/wpeducation_addons_course.php:1104
+#: includes/widgets/wpeducation_addons_events.php:768
+#: includes/widgets/wpeducation_addons_events.php:917
+#: includes/widgets/wpeducation_addons_google_maps.php:340
+#: includes/widgets/wpeducation_addons_google_maps.php:423
+#: includes/widgets/wpeducation_addons_icon_list.php:275
+#: includes/widgets/wpeducation_addons_icon_list.php:304
+#: includes/widgets/wpeducation_addons_info_box.php:218
+#: includes/widgets/wpeducation_addons_info_box.php:294
+#: includes/widgets/wpeducation_addons_info_box.php:370
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:225
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:301
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:377
+#: includes/widgets/wpeducation_addons_progress_bar.php:96
+#: includes/widgets/wpeducation_addons_schedule.php:90
+#: includes/widgets/wpeducation_addons_schedule.php:150
+#: includes/widgets/wpeducation_addons_section-title.php:98
+#: includes/widgets/wpeducation_addons_section_divider.php:506
+#: includes/widgets/wpeducation_addons_section_divider.php:604
+#: includes/widgets/wpeducation_addons_service_box.php:737
+#: includes/widgets/wpeducation_addons_service_box.php:777
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:721
+#: includes/widgets/wpeducation_addons_testimonial.php:490
+msgid "Color &amp; Typography"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:323
+msgid "Color &amp; Typography "
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:485
+#: includes/widgets/wpeducation_addons_course.php:842
+#: includes/widgets/wpeducation_addons_events.php:784
+msgid "Color Hover"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:75
+msgid "Color Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:83
+#: includes/widgets/wpeducation_addons_course.php:255
+#: includes/widgets/wpeducation_addons_events.php:255
+#: includes/widgets/wpeducation_addons_teachers.php:163
+msgid "Columns"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:535
+msgid "Company Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:109
+#: includes/widgets/wpeducation_addons_testimonial.php:526
+msgid "Company Name"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:216
+#, php-format
+msgid "Container Max Width (% or px)"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:168
+#: includes/widgets/wpeducation_addons_call_to_action.php:121
+#: includes/widgets/wpeducation_addons_call_to_action.php:130
+#: includes/widgets/wpeducation_addons_course.php:39
+#: includes/widgets/wpeducation_addons_events.php:39
+#: includes/widgets/wpeducation_addons_service_box.php:161
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:560
+#: includes/widgets/wpeducation_addons_events.php:605
+#: includes/widgets/wpeducation_addons_service_box.php:196
+msgid "Content Alignment"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:301
+msgid "Content Box"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:633
+#: includes/widgets/wpeducation_addons_events.php:701
+msgid "Content Box Margin"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:644
+#: includes/widgets/wpeducation_addons_events.php:712
+msgid "Content Box Padding"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:626
+#: includes/widgets/wpeducation_addons_events.php:671
+#: includes/widgets/wpeducation_addons_slider.php:293
+msgid "Content Box Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:359
+#: includes/widgets/wpeducation_addons_teachers.php:375
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:187
+msgid "Content color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:481
+#: includes/widgets/wpeducation_addons_events.php:526
+msgid "Content Hover color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:391
+msgid "Content hover color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:474
+#: includes/widgets/wpeducation_addons_events.php:519
+msgid "Content Hover Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:72
+#: includes/widgets/wpeducation_addons_course.php:83
+#: includes/widgets/wpeducation_addons_events.php:83
+#: includes/widgets/wpeducation_addons_teachers.php:227
+msgid "Content Length"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:645
+#: includes/widgets/wpeducation_addons_blog.php:728
+msgid "Content Padding"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:32
+msgid "Content Settings"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:183
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:53
+msgid "Content Show Option"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:46
+#: includes/widgets/wpeducation_addons_events.php:46
+msgid "Content Source Option"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:39
+#: includes/widgets/wpeducation_addons_call_to_action.php:359
+#: includes/widgets/wpeducation_addons_course.php:292
+#: includes/widgets/wpeducation_addons_course.php:352
+#: includes/widgets/wpeducation_addons_events.php:292
+#: includes/widgets/wpeducation_addons_service_box.php:768
+msgid "Content Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:57
+#: includes/widgets/wpeducation_addons_call_to_action.php:118
+#: includes/widgets/wpeducation_addons_service_box.php:158
+msgid "Content Type"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:190
+msgid "Controls"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_countdown.php:60
+msgid "Count Area"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_countdown.php:36
+msgid "Countdown"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_countdown.php:202
+msgid "Counter Box"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:29
+msgid "Counter Content"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:46
+#: includes/widgets/wpeducation_addons_counter.php:49
+msgid "Counter Number"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:36
+#: includes/widgets/wpeducation_addons_counter.php:133
+msgid "Counter Title"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:11
+#: admin/wpeducation_custom-post-type.php:12
+#: includes/widgets/wpeducation_addons_course.php:30
+msgid "Course"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:13
+msgid "Course Archives"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:692
+msgid "Course Date"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:30
+msgid "Course list"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:31
+msgid "Course list navigation"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:35
+msgid "Course Option"
+msgstr ""
+
+#: admin/plugin-options.php:37
+msgid "Course Options"
+msgstr ""
+
+#: admin/plugin-options.php:97
+msgid "Course Title Show/Hide"
+msgstr ""
+
+#: wpeducation.php:199
+msgid "Courses"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:166
+msgid "Custom Icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:188
+#: includes/widgets/wpeducation_addons_section_divider.php:252
+msgid "Dashed"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_events.php:396
+msgid "Date Meta Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:408
+#: includes/widgets/wpeducation_addons_icon_list.php:39
+#: includes/widgets/wpeducation_addons_testimonial.php:311
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:154
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:56
+#: includes/widgets/wpeducation_addons_google_maps.php:157
+#: includes/widgets/wpeducation_addons_google_maps.php:416
+#: includes/widgets/wpeducation_addons_section-title.php:67
+#: includes/widgets/wpeducation_addons_section-title.php:226
+msgid "Description"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:401
+#: includes/widgets/wpeducation_addons_info_box.php:286
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:293
+msgid "Description Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:352
+msgid "Description style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:360
+msgid "Description Title color"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:88
+msgid "Designation"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:322
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:150
+msgid "Designation color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:338
+msgid "Designation Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:363
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:175
+msgid "Designation Margin"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:91
+msgid "Direction"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:70
+msgid "Display Avatar?"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:334
+msgid "Display User & Company Block?"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:141
+msgid "div"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:168
+#: includes/widgets/wpeducation_addons_section_divider.php:56
+#: includes/widgets/wpeducation_addons_section_divider.php:203
+msgid "Divider"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:232
+#: includes/widgets/wpeducation_addons_section_divider.php:393
+#: includes/widgets/wpeducation_addons_section_divider.php:420
+#: includes/widgets/wpeducation_addons_section_divider.php:447
+msgid "Divider Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:109
+msgid "Divider Text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:189
+msgid "Dots"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:258
+msgid "Dots & Prev/Next"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:256
+msgid "Dots Only"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:187
+#: includes/widgets/wpeducation_addons_section_divider.php:253
+msgid "Dotted"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:186
+#: includes/widgets/wpeducation_addons_section_divider.php:254
+msgid "Double"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:231
+msgid "Draggable?"
+msgstr ""
+
+#: admin/plugin-options.php:87 admin/plugin-options.php:98
+#: admin/plugin-options.php:109 admin/plugin-options.php:143
+#: admin/plugin-options.php:154 admin/plugin-options.php:165
+#: admin/plugin-options.php:199 admin/plugin-options.php:210
+#: admin/plugin-options.php:221
+msgid "Dropdown Options"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_countdown.php:43
+msgid "Due Date"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:18
+msgid "Edit Course"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:262
+msgid "Edit Events"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:190
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:160
+msgid "Edit Tag"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:90
+msgid "Edit Teachers"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:11
+msgid "Education : Accrodion"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:13
+msgid "Education : Benefits"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:13
+msgid "Education : Call to Action"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:14
+msgid "Education : Counter Box"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:13
+msgid "Education : Course Box"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:24
+msgid "Education : Divider"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_events.php:13
+msgid "Education : Events Box"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:15
+msgid "Education : Gallery"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:13
+msgid "Education : Info"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:12
+msgid "Education : Maps"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:13
+msgid "Education : Our Blog"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_progress_bar.php:11
+msgid "Education : Progress Bar"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_schedule.php:11
+msgid "Education : Schedule"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:11
+msgid "Education : Section Title"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:13
+msgid "Education : Service Box"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:13
+msgid "Education : Slider"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:13
+msgid "Education : Teachers Post"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:13
+msgid "Education : Teachers Sidebar"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:14
+msgid "Education : Testimonial Slider"
+msgstr ""
+
+#. Description of the plugin
+msgid "Education WordPress Plugins for Elementor"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_countdown.php:13
+msgid "Education:Countdown"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:12
+msgid "Education:Icon List"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:403
+msgid "Effect"
+msgstr ""
+
+#: single-events.php:49
+msgid "End Date"
+msgstr ""
+
+#: single-events.php:59
+msgid "End Time"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:76
+msgid "Enter All Button Text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:103
+#: includes/widgets/wpeducation_addons_course.php:278
+#: includes/widgets/wpeducation_addons_events.php:278
+msgid "Enter button text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:39
+msgid "Enter Counter Title"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:112
+msgid "Enter Link"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:104
+msgid "Enter slider button text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:94
+msgid "Enter slider Description"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:74
+msgid "Enter slider title"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:84
+msgid "Enter Slider Title Two"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:201
+msgid "Event Book Button Text"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:129
+msgid "Event Date"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:177
+msgid "Event End Date"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:193
+msgid "Event End Time"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:153
+msgid "Event Location"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:137
+msgid "Event Month"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:169
+msgid "Event Satrt Date"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:161
+msgid "Event Sort Description"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:185
+msgid "Event Start Time"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:145
+msgid "Event Time"
+msgstr ""
+
+#: wpeducation.php:380 admin/wpeducation_custom-post-type.php:255
+#: admin/wpeducation_custom-post-type.php:256
+#: includes/widgets/wpeducation_addons_events.php:30
+msgid "Events"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:257
+msgid "Events Archives"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:274
+msgid "Events list"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:275
+msgid "Events list navigation"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:123
+msgid "Events Option"
+msgstr ""
+
+#: admin/plugin-options.php:45
+msgid "Events Options"
+msgstr ""
+
+#: admin/plugin-options.php:153 admin/plugin-options.php:209
+msgid "Events Title Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:102
+msgid "Facility Name"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:611
+msgid "Facility Text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:619
+msgid "Facility Text Color"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:24
+#: admin/wpeducation_custom-post-type.php:96
+#: admin/wpeducation_custom-post-type.php:196
+#: admin/wpeducation_custom-post-type.php:268
+msgid "Featured Image"
+msgstr ""
+
+#: admin/plugin-options.php:86 admin/plugin-options.php:142
+#: admin/plugin-options.php:198
+msgid "Featured Image Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:257
+msgid "Filter Box  Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:265
+msgid "Filter Box BG COlor"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:615
+msgid "Filter Button Hover/Acitive Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:351
+msgid "Filter Button Style"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:32
+#: admin/wpeducation_custom-post-type.php:104
+#: admin/wpeducation_custom-post-type.php:204
+#: admin/wpeducation_custom-post-type.php:276
+msgid "Filter items list"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:45
+msgid "Filter Menu Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:38
+msgid "Filtter Options"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:45
+msgid "Flex Grid"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:46
+msgid "Flex Grid with Icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:577
+msgid "Font Size"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:266
+msgid "Fullscreen Control"
+msgstr ""
+
+#: wpeducation.php:320 admin/wpeducation_custom-post-type.php:183
+#: admin/wpeducation_custom-post-type.php:184
+#: includes/widgets/wpeducation_addons_gallery.php:31
+msgid "Gallery"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:185
+msgid "Gallery Archives"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:202
+msgid "Gallery list"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:203
+msgid "Gallery list navigation"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:104
+msgid "Good Facility"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:116
+#: includes/widgets/wpeducation_addons_events.php:116
+msgid "Grid"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:135
+msgid "H1"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:136
+msgid "H2"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:137
+msgid "H3"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:138
+msgid "H4"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:139
+msgid "H5"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:140
+msgid "H6"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:284
+#: includes/widgets/wpeducation_addons_countdown.php:129
+#: includes/widgets/wpeducation_addons_course.php:777
+#: includes/widgets/wpeducation_addons_course.php:1061
+#: includes/widgets/wpeducation_addons_events.php:476
+#: includes/widgets/wpeducation_addons_events.php:981
+#: includes/widgets/wpeducation_addons_google_maps.php:210
+#: includes/widgets/wpeducation_addons_icon_list.php:246
+#: includes/widgets/wpeducation_addons_section_divider.php:265
+#: includes/widgets/wpeducation_addons_section_divider.php:297
+#: includes/widgets/wpeducation_addons_slider.php:309
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:189
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:153
+msgid "Highlight Border"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:162
+msgid "Highlight Border Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:95
+msgid "Horizontal"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:213
+#: includes/widgets/wpeducation_addons_call_to_action.php:503
+#: includes/widgets/wpeducation_addons_course.php:446
+#: includes/widgets/wpeducation_addons_course.php:657
+#: includes/widgets/wpeducation_addons_course.php:1098
+#: includes/widgets/wpeducation_addons_events.php:491
+#: includes/widgets/wpeducation_addons_events.php:725
+#: includes/widgets/wpeducation_addons_events.php:1018
+#: includes/widgets/wpeducation_addons_gallery.php:609
+#: includes/widgets/wpeducation_addons_icon_list.php:320
+#: includes/widgets/wpeducation_addons_icon_list.php:378
+#: includes/widgets/wpeducation_addons_slider.php:537
+#: includes/widgets/wpeducation_addons_slider.php:672
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:349
+#: includes/widgets/wpeducation_addons_info_box.php:234
+#: includes/widgets/wpeducation_addons_info_box.php:310
+#: includes/widgets/wpeducation_addons_info_box.php:386
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:241
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:317
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:393
+#: includes/widgets/wpeducation_addons_service_box.php:579
+msgid "Hover Color"
+msgstr ""
+
+#. Author of the plugin
+msgid "HT Plugins"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:131
+msgid "HTML Tag"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://demo.wphash.com/education/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://htplugins.com/"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:83
+#: includes/widgets/wpeducation_addons_slider.php:113
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:202
+msgid "Hybrid"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:47
+#: includes/widgets/wpeducation_addons_call_to_action.php:93
+#: includes/widgets/wpeducation_addons_counter.php:78
+#: includes/widgets/wpeducation_addons_counter.php:117
+#: includes/widgets/wpeducation_addons_gallery.php:194
+#: includes/widgets/wpeducation_addons_gallery.php:220
+#: includes/widgets/wpeducation_addons_icon_list.php:70
+#: includes/widgets/wpeducation_addons_icon_list.php:296
+#: includes/widgets/wpeducation_addons_info_box.php:39
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:39
+#: includes/widgets/wpeducation_addons_section_divider.php:76
+#: includes/widgets/wpeducation_addons_section_divider.php:119
+#: includes/widgets/wpeducation_addons_section_divider.php:569
+#: includes/widgets/wpeducation_addons_service_box.php:63
+#: includes/widgets/wpeducation_addons_service_box.php:94
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:310
+msgid "Icon / Image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:454
+msgid "Icon BG Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:503
+#: includes/widgets/wpeducation_addons_gallery.php:721
+#: includes/widgets/wpeducation_addons_info_box.php:458
+#: includes/widgets/wpeducation_addons_service_box.php:480
+#: includes/widgets/wpeducation_addons_service_box.php:697
+#: includes/widgets/wpeducation_addons_teachers.php:470
+#: includes/widgets/wpeducation_addons_teachers.php:566
+msgid "Icon Border"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:467
+#: includes/widgets/wpeducation_addons_service_box.php:489
+#: includes/widgets/wpeducation_addons_service_box.php:706
+msgid "Icon Border Hover"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:566
+#: includes/widgets/wpeducation_addons_teachers.php:424
+msgid "Icon Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:318
+msgid "Icon color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:536
+#: includes/widgets/wpeducation_addons_info_box.php:503
+#: includes/widgets/wpeducation_addons_section-title.php:209
+#: includes/widgets/wpeducation_addons_service_box.php:427
+#: includes/widgets/wpeducation_addons_service_box.php:551
+#: includes/widgets/wpeducation_addons_teachers.php:504
+msgid "Icon Height"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:550
+msgid "Icon Hover BG COlor"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:439
+#: includes/widgets/wpeducation_addons_teachers.php:535
+msgid "Icon Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:503
+#: includes/widgets/wpeducation_addons_events.php:548
+msgid "Icon Hover color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_events.php:541
+msgid "Icon Hover Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:90
+#: includes/widgets/wpeducation_addons_gallery.php:206
+msgid "Icon image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:27
+msgid "Icon List"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:371
+msgid "Icon margin"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:189
+#: includes/widgets/wpeducation_addons_events.php:189
+msgid "Icon Next"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:56
+#: includes/widgets/wpeducation_addons_gallery.php:172
+msgid "Icon Options"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:382
+msgid "Icon Padding"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:201
+#: includes/widgets/wpeducation_addons_events.php:201
+msgid "Icon Prev"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:643
+msgid "Icon Rotation"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:64
+#: includes/widgets/wpeducation_addons_gallery.php:180
+msgid "Icon Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:515
+msgid "Icon Size"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:566
+#: includes/widgets/wpeducation_addons_info_box.php:362
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:369
+#: includes/widgets/wpeducation_addons_service_box.php:504
+msgid "Icon Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:522
+#: includes/widgets/wpeducation_addons_info_box.php:488
+#: includes/widgets/wpeducation_addons_section-title.php:195
+#: includes/widgets/wpeducation_addons_service_box.php:412
+#: includes/widgets/wpeducation_addons_service_box.php:536
+#: includes/widgets/wpeducation_addons_teachers.php:490
+msgid "Icon Width"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:79
+#: includes/widgets/wpeducation_addons_gallery.php:195
+#: includes/widgets/wpeducation_addons_section_divider.php:80
+#: includes/widgets/wpeducation_addons_section_divider.php:154
+#: includes/widgets/wpeducation_addons_section_divider.php:699
+#: includes/widgets/wpeducation_addons_service_box.php:59
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:40
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:40
+msgid "image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:607
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:246
+msgid "Image Border"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:54
+msgid "Image or Icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:324
+msgid "Image Resizer"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:313
+msgid "Image Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:401
+msgid "Image Width"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:45
+msgid "Image/Icon On Left"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:46
+msgid "Image/Icon On Right"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:44
+msgid "Image/Icon On Top"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:211
+msgid "Infinite Loop?"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:113
+#: includes/widgets/wpeducation_addons_service_box.php:230
+msgid "Info Box Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:280
+msgid "Info Container Always Opened"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:294
+msgid "Info Container Closed when Mouse Out"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:287
+msgid "Info Container Opened when Hovered"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:99
+msgid "Info description"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:74
+msgid "Info icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:35
+msgid "Info Icon type"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:48
+msgid "Info image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:28
+msgid "Info Settings"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:89
+#: includes/widgets/wpeducation_addons_info_box.php:92
+msgid "Info Title"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:43
+msgid "Inline"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:57
+msgid "Insert Age"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:58
+msgid "Insert Age Here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:42
+msgid "Insert Class Date Here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:66
+msgid "Insert Class Size Here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:50
+#: admin/wpeducation_custom-metabox.php:138
+#: admin/wpeducation_custom-metabox.php:162
+msgid "Insert Description Here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:130
+msgid "Insert Event Date Here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:178
+msgid "Insert Event End Date Here (D/M/Y)"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:170
+msgid "Insert Event Satrt Date Here (D/M/Y)"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:186
+msgid "Insert Event Start Time Here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:202
+msgid "Insert Events Book Button Text Here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:194
+msgid "Insert Events End Time Here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:146
+msgid "Insert Events Time Here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:154
+msgid "Insert Evetns Location Here"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:28
+#: admin/wpeducation_custom-post-type.php:100
+#: admin/wpeducation_custom-post-type.php:200
+#: admin/wpeducation_custom-post-type.php:272
+msgid "Insert into item"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:113
+msgid "insert link here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:83
+#: admin/wpeducation_custom-metabox.php:89
+msgid "insert title here"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:210
+msgid "Insert Your Booking Form Url"
+msgstr ""
+
+#: wpeducation.php:119
+msgid "Install Cmb2"
+msgstr ""
+
+#: wpeducation.php:174
+msgid "Install contact-form-7"
+msgstr ""
+
+#: wpeducation.php:147
+msgid "Install Elementor"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:86
+msgid "Item  Options"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:661
+msgid "Item Box Hover Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:442
+msgid "Item Box Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:161
+msgid "Item Gutter"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:683
+msgid "Item Link Hover Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:465
+msgid "Item Link Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:104
+#: includes/widgets/wpeducation_addons_events.php:104
+msgid "Item Show Option"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:560
+msgid "Item Title Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:97
+msgid "John Doe"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:319
+msgid "JSON Code"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:203
+#: includes/widgets/wpeducation_addons_counter.php:271
+#: includes/widgets/wpeducation_addons_counter.php:358
+#: includes/widgets/wpeducation_addons_info_box.php:193
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:200
+#: includes/widgets/wpeducation_addons_service_box.php:398
+#: includes/widgets/wpeducation_addons_service_box.php:645
+#: includes/widgets/wpeducation_addons_slider.php:215
+msgid "Justified"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_countdown.php:167
+msgid "Label"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:28
+msgid "Latest Blog"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:129
+msgid "Latitude"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:53
+#: includes/widgets/wpeducation_addons_google_maps.php:110
+msgid "Latitude & Longitude Finder"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:34
+msgid "Layout"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:39
+#: includes/widgets/wpeducation_addons_testimonial.php:42
+msgid "Layout One"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:41
+msgid "Layout Three"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:40
+#: includes/widgets/wpeducation_addons_testimonial.php:43
+msgid "Layout Two"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:62
+#: includes/widgets/wpeducation_addons_counter.php:191
+#: includes/widgets/wpeducation_addons_counter.php:259
+#: includes/widgets/wpeducation_addons_counter.php:346
+#: includes/widgets/wpeducation_addons_course.php:564
+#: includes/widgets/wpeducation_addons_events.php:609
+#: includes/widgets/wpeducation_addons_gallery.php:328
+#: includes/widgets/wpeducation_addons_google_maps.php:391
+#: includes/widgets/wpeducation_addons_google_maps.php:473
+#: includes/widgets/wpeducation_addons_icon_list.php:149
+#: includes/widgets/wpeducation_addons_info_box.php:181
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:188
+#: includes/widgets/wpeducation_addons_section_divider.php:173
+#: includes/widgets/wpeducation_addons_section_divider.php:486
+#: includes/widgets/wpeducation_addons_section_divider.php:584
+#: includes/widgets/wpeducation_addons_section_divider.php:714
+#: includes/widgets/wpeducation_addons_service_box.php:201
+#: includes/widgets/wpeducation_addons_service_box.php:386
+#: includes/widgets/wpeducation_addons_service_box.php:633
+#: includes/widgets/wpeducation_addons_slider.php:203
+#: includes/widgets/wpeducation_addons_testimonial.php:315
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:410
+msgid "Left to Right"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:80
+#: includes/widgets/wpeducation_addons_slider.php:111
+msgid "Link"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:487
+msgid "Link Icon BG Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:472
+msgid "Link Icon Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:705
+msgid "Link Icon Hover BG Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:690
+msgid "Link Icon Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:116
+msgid "List"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:62
+#: includes/widgets/wpeducation_addons_icon_list.php:63
+msgid "List Item"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:95
+msgid "List Item #1"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:99
+msgid "List Item #2"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:103
+msgid "List Item #3"
+msgstr ""
+
+#: single-events.php:64
+msgid "Location"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:139
+msgid "Longitude"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:69
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:498
+msgid "Map"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:174
+msgid "Map Pins"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:313
+msgid "Map Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:196
+msgid "Map Type"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:245
+msgid "Map Type Controls"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:155
+#: includes/widgets/wpeducation_addons_blog.php:298
+#: includes/widgets/wpeducation_addons_blog.php:374
+#: includes/widgets/wpeducation_addons_blog.php:434
+#: includes/widgets/wpeducation_addons_blog.php:568
+#: includes/widgets/wpeducation_addons_blog.php:633
+#: includes/widgets/wpeducation_addons_blog.php:716
+#: includes/widgets/wpeducation_addons_call_to_action.php:270
+#: includes/widgets/wpeducation_addons_call_to_action.php:430
+#: includes/widgets/wpeducation_addons_countdown.php:143
+#: includes/widgets/wpeducation_addons_countdown.php:211
+#: includes/widgets/wpeducation_addons_course.php:585
+#: includes/widgets/wpeducation_addons_course.php:791
+#: includes/widgets/wpeducation_addons_course.php:947
+#: includes/widgets/wpeducation_addons_events.php:630
+#: includes/widgets/wpeducation_addons_events.php:867
+#: includes/widgets/wpeducation_addons_google_maps.php:363
+#: includes/widgets/wpeducation_addons_google_maps.php:446
+#: includes/widgets/wpeducation_addons_google_maps.php:537
+#: includes/widgets/wpeducation_addons_info_box.php:121
+#: includes/widgets/wpeducation_addons_info_box.php:259
+#: includes/widgets/wpeducation_addons_info_box.php:335
+#: includes/widgets/wpeducation_addons_info_box.php:433
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:118
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:266
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:342
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:418
+#: includes/widgets/wpeducation_addons_schedule.php:108
+#: includes/widgets/wpeducation_addons_schedule.php:168
+#: includes/widgets/wpeducation_addons_section-title.php:128
+#: includes/widgets/wpeducation_addons_section-title.php:173
+#: includes/widgets/wpeducation_addons_section-title.php:255
+#: includes/widgets/wpeducation_addons_service_box.php:262
+#: includes/widgets/wpeducation_addons_service_box.php:442
+#: includes/widgets/wpeducation_addons_service_box.php:659
+#: includes/widgets/wpeducation_addons_service_box.php:757
+#: includes/widgets/wpeducation_addons_slider.php:276
+#: includes/widgets/wpeducation_addons_slider.php:323
+#: includes/widgets/wpeducation_addons_slider.php:388
+#: includes/widgets/wpeducation_addons_slider.php:520
+#: includes/widgets/wpeducation_addons_teachers.php:107
+#: includes/widgets/wpeducation_addons_teachers.php:673
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:312
+#: includes/widgets/wpeducation_addons_testimonial.php:345
+#: includes/widgets/wpeducation_addons_testimonial.php:428
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:304
+msgid "Marker Clustering"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:94
+msgid "Markers"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:140
+msgid "Max Visible Item"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:176
+msgid "Max Visible Items for Mobile"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:164
+msgid "Max Visible Items for Tablet"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:100
+msgid "Max Width"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:415
+msgid "Meta Border"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:122
+msgid "Meta Box"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_events.php:403
+msgid "Meta Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:391
+#: includes/widgets/wpeducation_addons_events.php:361
+msgid "Meta color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:496
+msgid "Meta Hover Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_events.php:384
+#: includes/widgets/wpeducation_addons_events.php:441
+msgid "Meta Margin"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:422
+msgid "Meta margin"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:433
+#: includes/widgets/wpeducation_addons_events.php:452
+msgid "Meta Padding"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:114
+#: includes/widgets/wpeducation_addons_course.php:384
+#: includes/widgets/wpeducation_addons_events.php:354
+msgid "Meta Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:251
+#: includes/widgets/wpeducation_addons_testimonial.php:266
+msgid "Navigation & Pagination"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:683
+msgid "Navigation Background Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:670
+msgid "Navigation Color (Arrows & Bullets)"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:271
+msgid "Navigation Top Left"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:272
+msgid "Navigation Top Right"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:661
+msgid "Navigation/Pagination Style"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:17
+msgid "New Course"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:261
+msgid "New Events"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:189
+msgid "New Gallery"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:163
+msgid "New Tag Name"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:89
+msgid "New Teachers"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:110
+msgid "No"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:208
+msgid "no"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:255
+msgid "None"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:100
+#: includes/widgets/wpeducation_addons_call_to_action.php:449
+#: includes/widgets/wpeducation_addons_course.php:303
+#: includes/widgets/wpeducation_addons_course.php:532
+#: includes/widgets/wpeducation_addons_course.php:984
+#: includes/widgets/wpeducation_addons_events.php:303
+#: includes/widgets/wpeducation_addons_events.php:577
+#: includes/widgets/wpeducation_addons_events.php:904
+#: includes/widgets/wpeducation_addons_gallery.php:251
+#: includes/widgets/wpeducation_addons_slider.php:434
+#: includes/widgets/wpeducation_addons_slider.php:621
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:270
+msgid "Normal (Left Right)"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:22
+#: admin/wpeducation_custom-post-type.php:94
+#: admin/wpeducation_custom-post-type.php:194
+#: admin/wpeducation_custom-post-type.php:266
+msgid "Not found"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:23
+#: admin/wpeducation_custom-post-type.php:95
+#: admin/wpeducation_custom-post-type.php:195
+#: admin/wpeducation_custom-post-type.php:267
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:223
+msgid "Number"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:231
+msgid "Number color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:284
+msgid "Number margin"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:135
+msgid "Number Of Columns Displayed (Large Mobile)"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:120
+msgid "Number Of Columns Displayed (Tab)"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:295
+msgid "Number Padding"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:170
+msgid "Off"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:171
+msgid "On"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:97
+#: includes/widgets/wpeducation_addons_events.php:97
+msgid "Option"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:149
+msgid "Order By"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_events.php:590
+#: includes/widgets/wpeducation_addons_teachers.php:591
+#: includes/widgets/wpeducation_addons_teachers.php:643
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:230
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:282
+msgid "Overlay BG Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_events.php:731
+msgid "Overlay Hover  BG Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:663
+msgid "Overlay Hover BG Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:658
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:297
+msgid "Overlay Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:538
+#: includes/widgets/wpeducation_addons_events.php:583
+#: includes/widgets/wpeducation_addons_teachers.php:584
+#: includes/widgets/wpeducation_addons_teachers.php:636
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:223
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:275
+msgid "Overlay Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:143
+msgid "p"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:197
+#: includes/widgets/wpeducation_addons_blog.php:167
+#: includes/widgets/wpeducation_addons_blog.php:310
+#: includes/widgets/wpeducation_addons_blog.php:386
+#: includes/widgets/wpeducation_addons_blog.php:446
+#: includes/widgets/wpeducation_addons_blog.php:580
+#: includes/widgets/wpeducation_addons_call_to_action.php:258
+#: includes/widgets/wpeducation_addons_call_to_action.php:418
+#: includes/widgets/wpeducation_addons_countdown.php:155
+#: includes/widgets/wpeducation_addons_countdown.php:223
+#: includes/widgets/wpeducation_addons_course.php:596
+#: includes/widgets/wpeducation_addons_course.php:803
+#: includes/widgets/wpeducation_addons_course.php:959
+#: includes/widgets/wpeducation_addons_events.php:641
+#: includes/widgets/wpeducation_addons_events.php:879
+#: includes/widgets/wpeducation_addons_google_maps.php:375
+#: includes/widgets/wpeducation_addons_google_maps.php:457
+#: includes/widgets/wpeducation_addons_google_maps.php:549
+#: includes/widgets/wpeducation_addons_info_box.php:133
+#: includes/widgets/wpeducation_addons_info_box.php:271
+#: includes/widgets/wpeducation_addons_info_box.php:347
+#: includes/widgets/wpeducation_addons_info_box.php:445
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:130
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:278
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:354
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:430
+#: includes/widgets/wpeducation_addons_schedule.php:120
+#: includes/widgets/wpeducation_addons_schedule.php:180
+#: includes/widgets/wpeducation_addons_section-title.php:139
+#: includes/widgets/wpeducation_addons_section-title.php:184
+#: includes/widgets/wpeducation_addons_service_box.php:250
+#: includes/widgets/wpeducation_addons_service_box.php:454
+#: includes/widgets/wpeducation_addons_service_box.php:671
+#: includes/widgets/wpeducation_addons_slider.php:336
+#: includes/widgets/wpeducation_addons_slider.php:403
+#: includes/widgets/wpeducation_addons_slider.php:506
+#: includes/widgets/wpeducation_addons_teachers.php:684
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:323
+#: includes/widgets/wpeducation_addons_testimonial.php:358
+#: includes/widgets/wpeducation_addons_testimonial.php:440
+msgid "Padding"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:14
+msgid "Page Options"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:14
+msgid "Parent Course:"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:258
+msgid "Parent Events:"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:186
+msgid "Parent Gallery:"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:86
+msgid "Parent Teachers:"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:221
+msgid "Pause on Hover?"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_progress_bar.php:44
+msgid "Percent (please type % )"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:68
+msgid "Plain"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: init.php:112
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:156
+msgid "Popular Tags"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:482
+#: includes/widgets/wpeducation_addons_section_divider.php:580
+#: includes/widgets/wpeducation_addons_section_divider.php:710
+msgid "Position"
+msgstr ""
+
+#: admin/plugin-options.php:67 admin/plugin-options.php:123
+#: admin/plugin-options.php:179
+msgid "Post Per Page"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:9
+msgctxt "Post Type General Name"
+msgid "Course"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:253
+msgctxt "Post Type General Name"
+msgid "Events"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:181
+msgctxt "Post Type General Name"
+msgid "Gallery"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:81
+msgctxt "Post Type General Name"
+msgid "Teachers"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:10
+msgctxt "Post Type Singular Name"
+msgid "Course"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:254
+msgctxt "Post Type Singular Name"
+msgid "Events"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:182
+msgctxt "Post Type Singular Name"
+msgid "Gallery"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:82
+msgctxt "Post Type Singular Name"
+msgid "Teachers"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:179
+msgid "Premium Google Maps"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:257
+msgid "Prev/Next Only"
+msgstr ""
+
+#: admin/plugin-options.php:49
+msgid "Pro Theme using this plugins."
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_progress_bar.php:30
+msgid "Progress"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_progress_bar.php:59
+msgid "Progress List"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:583
+msgid "Quotation Mark"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:591
+msgid "Quotation Mark Color"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Raleway, translate this to 'off'. Do not translate into your own language.
+#: init.php:117
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:133
+msgid "READ MORE"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:818
+msgid "Read More Button"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:100
+#: includes/widgets/wpeducation_addons_course.php:275
+msgid "Read more button Text"
+msgstr ""
+
+#: admin/plugin-options.php:79
+msgid "Related Course"
+msgstr ""
+
+#: admin/plugin-options.php:108
+msgid "Related Course Show/Hide"
+msgstr ""
+
+#: admin/plugin-options.php:191
+msgid "Related Events"
+msgstr ""
+
+#: admin/plugin-options.php:164 admin/plugin-options.php:220
+msgid "Related Events Show/Hide"
+msgstr ""
+
+#: admin/plugin-options.php:135
+msgid "Related Teachers"
+msgstr ""
+
+#: admin/plugin-options.php:77 admin/plugin-options.php:133
+#: admin/plugin-options.php:189
+msgid "Related Title"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:26
+#: admin/wpeducation_custom-post-type.php:98
+#: admin/wpeducation_custom-post-type.php:198
+#: admin/wpeducation_custom-post-type.php:270
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:101
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:64
+#: includes/widgets/wpeducation_addons_counter.php:199
+#: includes/widgets/wpeducation_addons_counter.php:267
+#: includes/widgets/wpeducation_addons_counter.php:354
+#: includes/widgets/wpeducation_addons_course.php:572
+#: includes/widgets/wpeducation_addons_events.php:617
+#: includes/widgets/wpeducation_addons_gallery.php:336
+#: includes/widgets/wpeducation_addons_google_maps.php:399
+#: includes/widgets/wpeducation_addons_google_maps.php:481
+#: includes/widgets/wpeducation_addons_icon_list.php:157
+#: includes/widgets/wpeducation_addons_info_box.php:189
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:196
+#: includes/widgets/wpeducation_addons_section_divider.php:181
+#: includes/widgets/wpeducation_addons_section_divider.php:494
+#: includes/widgets/wpeducation_addons_section_divider.php:592
+#: includes/widgets/wpeducation_addons_section_divider.php:722
+#: includes/widgets/wpeducation_addons_service_box.php:209
+#: includes/widgets/wpeducation_addons_service_box.php:394
+#: includes/widgets/wpeducation_addons_service_box.php:641
+#: includes/widgets/wpeducation_addons_slider.php:211
+#: includes/widgets/wpeducation_addons_testimonial.php:323
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:199
+msgid "Road Map"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:462
+msgid "Rounded Avatar?"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:200
+msgid "Satellite"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:122
+#: includes/widgets/wpeducation_addons_service_box.php:162
+msgid "Saved Templates"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_schedule.php:30
+msgid "Schedule"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_schedule.php:37
+#: includes/widgets/wpeducation_addons_schedule.php:57
+#: includes/widgets/wpeducation_addons_schedule.php:82
+msgid "Schedule Day"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_schedule.php:52
+msgid "Schedule List"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_schedule.php:73
+msgid "Schedule Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_schedule.php:44
+#: includes/widgets/wpeducation_addons_schedule.php:142
+msgid "Schedule Time"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:273
+msgid "Scroll Wheel Zoom"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:21
+msgid "Search Course"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:265
+msgid "Search Events"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:193
+msgid "Search Gallery"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:155
+msgid "Search Tags"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:93
+msgid "Search Teachers"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:61
+msgid "Section Title"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:74
+#: includes/widgets/wpeducation_addons_gallery.php:190
+msgid "Select Icon Type"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:54
+msgid "Select Item Category"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:111
+#: includes/widgets/wpeducation_addons_events.php:111
+msgid "Select layout"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:53
+#: includes/widgets/wpeducation_addons_events.php:53
+msgid "Select Service Category"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:52
+msgid "Select Style"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:164
+msgid "Separate tags with commas"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:106
+msgid "Servicebox Clickable"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:140
+#: includes/widgets/wpeducation_addons_service_box.php:170
+msgid "Servicebox Content"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:32
+#: includes/widgets/wpeducation_addons_service_box.php:76
+msgid "Servicebox Image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:118
+msgid "Servicebox Link"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:146
+msgid "Servicebox Title"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:39
+msgid "Servicebox Type"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:306
+msgid "Set Alignment"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:25
+#: admin/wpeducation_custom-post-type.php:97
+#: admin/wpeducation_custom-post-type.php:197
+#: admin/wpeducation_custom-post-type.php:269
+msgid "Set featured image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:205
+msgid "Set max width for the container?"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:102
+msgid "Set the Maximum width for markers description box"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:528
+msgid "Shadow"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:49
+#: admin/wpeducation_custom-metabox.php:82
+msgid "Short Description"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:188
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:93
+msgid "Show All Item Number"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:49
+msgid "Show Border"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_gallery.php:104
+msgid "Show Columns"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:185
+msgid "Show Content"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:213
+#: includes/widgets/wpeducation_addons_events.php:213
+#: includes/widgets/wpeducation_addons_teachers.php:121
+msgid "Show Item"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:241
+#: includes/widgets/wpeducation_addons_events.php:241
+#: includes/widgets/wpeducation_addons_teachers.php:149
+msgid "Show Item (Large Mobile)"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:227
+#: includes/widgets/wpeducation_addons_events.php:227
+#: includes/widgets/wpeducation_addons_teachers.php:135
+msgid "Show Item (Tablet)"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:48
+msgid "Show Number Of blog"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:123
+#: includes/widgets/wpeducation_addons_events.php:123
+#: includes/widgets/wpeducation_addons_teachers.php:41
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:41
+msgid "Show Total Item"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:217
+msgid "Show/Hide Content"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:199
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:70
+msgid "Show/Hide Designation"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:190
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:61
+msgid "Show/Hide Name"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:208
+msgid "Show/Hide Profile Button"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:242
+msgid "Show/Hide Social Icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:332
+#: includes/widgets/wpeducation_addons_section_divider.php:619
+msgid "Size"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:188
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:152
+msgid "Slide to Scroll"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:126
+msgid "Slider"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:50
+msgid "Slider Background Image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:28
+msgid "Slider Content"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:91
+msgid "Slider Desc"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:132
+msgid "Slider Description Title"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:35
+#: includes/widgets/wpeducation_addons_slider.php:35
+#: includes/widgets/wpeducation_addons_testimonial.php:38
+msgid "Slider Layout"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:148
+msgid "Slider Option"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:70
+msgid "Slider title"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:81
+msgid "Slider Title Two"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:131
+msgid "Slider Title."
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:106
+msgid "Social Icon"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:528
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:417
+msgid "Social Icon Style"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:99
+msgid "Social Icon {#}"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:185
+#: includes/widgets/wpeducation_addons_section_divider.php:251
+msgid "Solid"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:124
+msgid "Space Between"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:542
+#: includes/widgets/wpeducation_addons_section_divider.php:672
+#: includes/widgets/wpeducation_addons_section_divider.php:779
+msgid "Spacing"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:142
+msgid "span"
+msgstr ""
+
+#: single-events.php:44
+msgid "Start Date"
+msgstr ""
+
+#: single-events.php:54
+msgid "Start Time"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:259
+msgid "Street View Control"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:89
+#: includes/widgets/wpeducation_addons_gallery.php:238
+#: includes/widgets/wpeducation_addons_icon_list.php:182
+#: includes/widgets/wpeducation_addons_progress_bar.php:80
+#: includes/widgets/wpeducation_addons_section-title.php:79
+#: includes/widgets/wpeducation_addons_section_divider.php:247
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:56
+msgid "Style One Carousel"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:57
+msgid "Style Two Grid"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:153
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:154
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr ""
+
+#: wpeducation.php:261 admin/wpeducation_custom-post-type.php:83
+#: admin/wpeducation_custom-post-type.php:84
+#: includes/widgets/wpeducation_addons_teachers.php:28
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:28
+msgid "Teachers"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:85
+msgid "Teachers Archives"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:102
+msgid "Teachers list"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:103
+msgid "Teachers list navigation"
+msgstr ""
+
+#: admin/wpeducation_custom-metabox.php:77
+msgid "Teachers Option"
+msgstr ""
+
+#: admin/plugin-options.php:41
+msgid "Teachers Options"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:34
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:34
+msgid "Teachers Show Option"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:201
+msgid "Terrain"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:84
+msgid "Testimonial Avatar"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:294
+msgid "Testimonial Background Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:32
+msgid "Testimonial Content"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:116
+msgid "Testimonial Description"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:393
+msgid "Testimonial Image Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:133
+msgid "Testimonial Slider Settings"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:286
+msgid "Testimonial Styles"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:555
+msgid "Testimonial Text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:563
+msgid "Testimonial Text Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:59
+#: includes/widgets/wpeducation_addons_icon_list.php:354
+#: includes/widgets/wpeducation_addons_section_divider.php:72
+#: includes/widgets/wpeducation_addons_section_divider.php:107
+#: includes/widgets/wpeducation_addons_section_divider.php:471
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:41
+msgid "Text Center"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:454
+#: includes/widgets/wpeducation_addons_call_to_action.php:508
+#: includes/widgets/wpeducation_addons_icon_list.php:362
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:390
+msgid "Text Indent"
+msgstr ""
+
+#: admin/plugin-options.php:68 admin/plugin-options.php:78
+#: admin/plugin-options.php:124 admin/plugin-options.php:134
+#: admin/plugin-options.php:180 admin/plugin-options.php:190
+msgid "Text input description"
+msgstr ""
+
+#: admin/plugin-options.php:69 admin/plugin-options.php:125
+#: admin/plugin-options.php:181
+msgid "Text Input placeholder"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:40
+msgid "Text Left"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:42
+msgid "Text Right"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:111
+msgid "The Ultimate Addons For Elementor"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:152
+msgid "This is an icon box"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:38
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:107
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:221
+#: includes/widgets/wpeducation_addons_call_to_action.php:108
+#: includes/widgets/wpeducation_addons_google_maps.php:148
+#: includes/widgets/wpeducation_addons_google_maps.php:332
+#: includes/widgets/wpeducation_addons_progress_bar.php:37
+#: includes/widgets/wpeducation_addons_progress_bar.php:64
+#: includes/widgets/wpeducation_addons_progress_bar.php:88
+#: includes/widgets/wpeducation_addons_section-title.php:30
+#: includes/widgets/wpeducation_addons_section-title.php:59
+#: includes/widgets/wpeducation_addons_section-title.php:90
+#: includes/widgets/wpeducation_addons_slider.php:241
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:111
+msgid "Title Border"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:310
+#: includes/widgets/wpeducation_addons_events.php:310
+#: includes/widgets/wpeducation_addons_teachers.php:262
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:90
+msgid "Title Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:140
+#: includes/widgets/wpeducation_addons_course.php:318
+#: includes/widgets/wpeducation_addons_events.php:318
+#: includes/widgets/wpeducation_addons_slider.php:249
+#: includes/widgets/wpeducation_addons_slider.php:580
+#: includes/widgets/wpeducation_addons_teachers.php:270
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:99
+msgid "Title color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:452
+#: includes/widgets/wpeducation_addons_events.php:497
+msgid "Title Hover Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:285
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:114
+msgid "Title Hover color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:459
+#: includes/widgets/wpeducation_addons_events.php:504
+msgid "Title Hover Link color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:60
+#: includes/widgets/wpeducation_addons_course.php:63
+#: includes/widgets/wpeducation_addons_events.php:63
+msgid "Title Length"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:74
+#: includes/widgets/wpeducation_addons_events.php:74
+msgid "Title Link Show/Hide"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_course.php:341
+#: includes/widgets/wpeducation_addons_events.php:341
+#: includes/widgets/wpeducation_addons_teachers.php:309
+#: includes/widgets/wpeducation_addons_teachers_sidebar_widgets.php:137
+msgid "Title Margin"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:164
+msgid "Title margin"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:71
+msgid "Title one"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_counter.php:175
+msgid "Title Padding"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:36
+msgid "Title Position"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:325
+#: includes/widgets/wpeducation_addons_call_to_action.php:331
+#: includes/widgets/wpeducation_addons_info_box.php:210
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:217
+#: includes/widgets/wpeducation_addons_service_box.php:729
+msgid "Title Style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_slider.php:233
+msgid "Title style"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_accrodion_tab.php:75
+msgid "Title Two"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:218
+msgid "Top"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:409
+msgid "Top to Bottom"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:63
+msgid "Type"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_info_box.php:103
+#: includes/widgets/wpeducation_addons_our_benefit_box.php:100
+msgid "Type your description here"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section-title.php:120
+#: includes/widgets/wpeducation_addons_section-title.php:246
+#: includes/widgets/wpeducation_addons_section_divider.php:522
+msgid "Typography"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:19
+msgid "Update Course"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:263
+msgid "Update Events"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:191
+msgid "Update Gallery"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:161
+msgid "Update Tag"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:91
+msgid "Update Teachers"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:29
+#: admin/wpeducation_custom-post-type.php:101
+#: admin/wpeducation_custom-post-type.php:201
+#: admin/wpeducation_custom-post-type.php:273
+msgid "Uploaded to this item"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:27
+#: admin/wpeducation_custom-post-type.php:99
+#: admin/wpeducation_custom-post-type.php:199
+#: admin/wpeducation_custom-post-type.php:271
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:95
+#: includes/widgets/wpeducation_addons_testimonial.php:498
+msgid "User Name"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:506
+msgid "User Name Color"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_testimonial.php:241
+msgid "Variable Width?"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:96
+msgid "Vertical"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_section_divider.php:212
+msgid "Vertical Alignment"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:20
+msgid "View Course"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:264
+msgid "View Events"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:192
+msgid "View Gallery"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_teachers.php:838
+msgid "View Profile"
+msgstr ""
+
+#: admin/wpeducation_custom-post-type.php:92
+msgid "View Teachers"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_icon_list.php:204
+msgid "Weight"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_blog.php:270
+#: includes/widgets/wpeducation_addons_countdown.php:115
+#: includes/widgets/wpeducation_addons_course.php:763
+#: includes/widgets/wpeducation_addons_course.php:1048
+#: includes/widgets/wpeducation_addons_events.php:463
+#: includes/widgets/wpeducation_addons_events.php:968
+#: includes/widgets/wpeducation_addons_icon_list.php:228
+#: includes/widgets/wpeducation_addons_section_divider.php:329
+#: includes/widgets/wpeducation_addons_section_divider.php:361
+#: includes/widgets/wpeducation_addons_section_divider.php:734
+msgid "Width"
+msgstr ""
+
+#. Name of the plugin
+#: admin/admin-init.php:8
+msgid "WP Education"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:176
+msgid ""
+"Write a short description, that will describe the title or something "
+"informational and useful."
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_service_box.php:109
+msgid "Yes"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_call_to_action.php:207
+msgid "yes"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:229
+msgid "Zoom"
+msgstr ""
+
+#: includes/widgets/wpeducation_addons_google_maps.php:252
+msgid "Zoom Controls"
+msgstr ""

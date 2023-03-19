@@ -1,0 +1,1167 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Swatchly - Variation Swatches for WooCommerce Products\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-28 09:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.9.3\n"
+"X-Domain: swatchly"
+
+#: includes/Admin/Global_Settings.php:253
+#: includes/Admin/Global_Settings.php:424
+msgid " : "
+msgstr ""
+
+#. %s: Product title
+#: includes/ajax-actions.php:46
+#, php-format
+msgid "\"%1$s\" has been added to your cart. %2$s"
+msgstr ""
+
+#. 1: Swatchly.
+#. 2: WooCommerce.
+#: swatchly.php:187
+#, php-format
+msgid ""
+"%1$s plugin requires the %2$s plugin to be installed and activated in order "
+"to work."
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:167
+#: includes/Admin/Product_Metabox.php:182
+#: includes/Admin/Product_Metabox.php:196
+msgid "-------"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:126
+msgid ""
+"<b>Read Me!</b> <br><br> All of the Global options below will be applied for "
+"the both \"Product Details\" & \"Product List/Shop\" page. <br> But all the "
+"settings of this page will be unused if you enable settings from the \"For "
+"Product Details Page\" or \"For Product List/Shop page\" Tab differently."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:669
+msgid ""
+"<code>[swatchly_pl_swatches]</code> Use this shortcode into your theme/child "
+"theme to place the swatches."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:737
+msgid ""
+"<div class=\"swatchly_catalog_mode_help_text\">Select & add the <strong>"
+"global/custom</strong> attributes below, that you want to show into the shop "
+"page. <br> If more than one attribute from the below attributes match with a "
+"product, then the first attribute from the product will be used. <br>The "
+"first attribute can be changed from the product edit page by drag & drop the "
+"position of the attributes.</div>"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:767
+msgid "<strong>Ajax Add to Cart Behaviour</strong>"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:851
+#: includes/Admin/Global_Settings.php:1045
+msgid ""
+"<strong>Margin & Padding</strong> <br> Swatch Item -> represents each "
+"individual swatch item. <br> Swatches Wrapper -> represents the container "
+"for the group of swatches."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:738
+#: includes/Admin/Global_Settings.php:761
+msgid "Add New Attribute"
+msgstr ""
+
+#: includes/Frontend/Woo_Config.php:727
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:779
+msgid "Add to Cart Text"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:652
+msgid "After Cart"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:650
+msgid "After Price"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:648
+msgid "After Title"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:200
+msgid "Ajax Variation Threshold"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:105
+msgid "Auto convert Dropdown to Image Swatch (If variation has image)"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:146
+#: includes/Admin/Global_Settings.php:313
+#: includes/Admin/Global_Settings.php:486
+msgid "Auto Convert Dropdowns To Image"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:139
+#: includes/Admin/Global_Settings.php:305
+#: includes/Admin/Global_Settings.php:478
+msgid "Auto Convert Dropdowns To Label"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:100
+msgid "Auto convert Dropdowns to Label type Swatch."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:147
+#: includes/Admin/Global_Settings.php:314
+#: includes/Admin/Global_Settings.php:487
+msgid ""
+"Automatically convert dropdowns to \"Image Swatch\" if variation has an "
+"image."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:306
+msgid ""
+"Automatically convert dropdowns to \"label swatch\" by default, for the "
+"\"product details\" page."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:479
+msgid ""
+"Automatically convert dropdowns to \"label swatch\" by default, for the "
+"\"product list/shop\" page."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:140
+msgid "Automatically convert dropdowns to \"label swatch\" by default."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:651
+msgid "Before Cart"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:649
+msgid "Before Price"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:647
+msgid "Before Title"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:265
+#: includes/Admin/Global_Settings.php:436
+#: includes/Admin/Global_Settings.php:592
+msgid "Blur"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:264
+#: includes/Admin/Global_Settings.php:435
+#: includes/Admin/Global_Settings.php:591
+msgid "Blur With Cross"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:464
+msgid ""
+"By checking this box, the \"Global\" Settings will not work for the Product "
+"List/Shop page. Instead you can control all \"Global\" settings for the "
+"Product List/Shop page below."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:291
+msgid ""
+"By checking this box, the Settings in the \"Global\" tab will not work for "
+"the Product Details page. Instead you can control all \"Global\" settings "
+"for the product details page below."
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:99
+msgid "By checking this will enable you to set multiple color."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:731
+msgid ""
+"By default, all attributes are shown on the shop page. If you want to show "
+"only specific attribute(s) instead of showing all. <br> This is where you "
+"can use the \"Catalog Mode\" for the shop page."
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:65
+msgid ""
+"By default, the \"Attribute Name\" will be shown as the tooltip. If you want "
+"custom tooltip text, put it here."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:636
+msgid "Center"
+msgstr ""
+
+#: includes/Admin.php:96
+msgid "Choose an image"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:170
+msgid "Circle"
+msgstr ""
+
+#: includes/Frontend/Woo_Config.php:637 includes/Frontend/Woo_Config.php:705
+msgid "Clear"
+msgstr ""
+
+#: includes/Admin/Woo_Config.php:32
+msgid "Color"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:715
+msgid "Conditionally Enable/Disable swatches for the product listing pages"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1263
+#: includes/Admin/Global_Settings.php:1408
+msgid "Control the spacing between swatch item & tooltip. Default: 130%"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:263
+#: includes/Admin/Global_Settings.php:434
+#: includes/Admin/Global_Settings.php:590
+msgid "Cross Sign"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:759
+msgid "Custom Attributes (For Catalog)"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:653
+msgid "Custom Position"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:803
+msgid "Customize Swatches"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1014
+msgid "Customize Swatches (Product List)"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:685
+msgid "Default: 10"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:228
+#: includes/Admin/Global_Settings.php:396
+#: includes/Admin/Global_Settings.php:569
+msgid "Default: 2px"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:201
+msgid ""
+"Default: 30 <br> When your variable product has more than 30 variations. You "
+"won't be able to visualize which combinations are unavailable to purchase, "
+"so the Customers need to choose each combination, if unavailable then choose "
+"another one and so on. You can increase the threshold to avoid that but keep "
+"in mind that, when your product has lot of variations the default way is "
+"faster than increasing the threshold."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:155
+#: includes/Admin/Global_Settings.php:167
+#: includes/Admin/Global_Settings.php:323
+#: includes/Admin/Global_Settings.php:336
+#: includes/Admin/Global_Settings.php:496
+#: includes/Admin/Global_Settings.php:509
+msgid "Default: 33px"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:194
+#: includes/Admin/Global_Settings.php:366
+#: includes/Admin/Global_Settings.php:539
+msgid ""
+"Default: thumbnail <br>Place the image size name here. WordPress default "
+"image sizes are: thumbnail, medium, medium_large, large and full.  Custom "
+"image size also can be used."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:238
+#: includes/Admin/Global_Settings.php:407
+#: includes/Admin/Global_Settings.php:580
+msgid "Deselect on Click"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:789
+msgid "Design"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:55
+#: includes/Admin/Product_Metabox.php:184
+#: includes/Admin/Product_Metabox.php:199
+#: includes/Admin/Product_Metabox.php:308
+msgid "Disable"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1515
+msgid "Disable Plugin"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:273
+#: includes/Admin/Global_Settings.php:445
+#: includes/Admin/Global_Settings.php:601
+msgid "Disable Variation Form For The \"Out of Stock\" Products"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:975
+#: includes/Admin/Global_Settings.php:1169
+msgid "Disabled"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:261
+#: includes/Admin/Global_Settings.php:432
+#: includes/Admin/Global_Settings.php:588
+msgid "Disabled Attribute Type"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:677
+msgid "e.g: woocommerce_after_shop_loop_item_title"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:97
+msgid ""
+"Email Candy is an outstanding WordPress plugin that allows you to customize "
+"the default WooCommerce email templates and give a professional look to your "
+"WooCommerce emails. If you are tired of using the boring design of "
+"WooCommerce emails and want to create customized emails, then this plugin "
+"will come in handy."
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:94
+msgid "Email Candy Pro - Email customizer for WooCommerce"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:133
+#: includes/Admin/Global_Settings.php:220
+#: includes/Admin/Global_Settings.php:387
+#: includes/Admin/Global_Settings.php:560
+#: includes/Admin/Global_Settings.php:701
+#: includes/Admin/Global_Settings.php:730
+#: includes/Admin/Product_Metabox.php:183
+msgid "Enable"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:772
+msgid "Enable Ajax Add to Cart"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:729
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:98
+#: includes/Admin/Product_Metabox.php:361
+msgid "Enable Multi Color"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:219
+#: includes/Admin/Global_Settings.php:386
+#: includes/Admin/Global_Settings.php:559
+#: includes/Admin/Product_Metabox.php:178
+msgid "Enable Shape Inset"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:700
+msgid "Enable Swatch Limit"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:132
+#: includes/Admin/Global_Settings.php:297
+#: includes/Admin/Global_Settings.php:470
+msgid "Enable Swatches"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:179
+#: includes/Admin/Global_Settings.php:349
+#: includes/Admin/Global_Settings.php:522
+msgid "Enable Tooltip"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:47
+msgid "EverCompare"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:720
+msgid ""
+"Example uses:<br>\n"
+"                        <code>is_page(array(32,50))</code> -> Using this "
+"code, the swatch will be enable only for the pages with id 32 & 50 <br>\n"
+"                        <code>is_shop() || "
+"is_product_category(array('clothing'))</code> -> Using this code, the swatch "
+"will be enable for the main shop page & \"clothing\" category page."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:694
+msgid "Example: img.attachment-woocommerce_thumbnail"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:657
+msgid ""
+"Except \"Custom Position\" & \"Use Shortcode\" option, some swatch positions "
+"may not behave as expected. Becuase some themes customize/remove the hook "
+"positions. <br> Contact us <a href=\"https://hasthemes.com/contact-us\" "
+"target=\"_blank\">Here</a> with your current \"Theme Name\" for any "
+"questions regarding this issue."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:283
+msgid "For Product Details Page"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:456
+msgid "For Product List/Shop page"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:797
+msgid "For Swatches"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1211
+msgid "For Tooltip"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:114
+msgid "General Settings"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:121
+msgid "Global"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:83
+msgid "global settings"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:104
+msgid "HashBar - Notification Bar"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:107
+#, php-format
+msgid ""
+"HashBar is a WordPress Notification / Alert / Offer Bar plugin which allows "
+"you to create unlimited notification bars to notify your customers. This "
+"plugin has option to show email subscription form (sometimes it increases up "
+"to 500% email subscriber), Offer text and buttons about your promotions. "
+"This plugin has the options to add unlimited background colors and images to "
+"make your notification bar more professional."
+msgstr ""
+
+#. Author of the plugin
+msgid "HasThemes"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:266
+#: includes/Admin/Global_Settings.php:437
+#: includes/Admin/Global_Settings.php:593
+msgid "Hide"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:676
+msgid "Hook Name"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:684
+msgid "Hook Priority"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:904
+#: includes/Admin/Global_Settings.php:1098
+msgid "Hover"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hasthemes.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://plugindemo.hasthemes.com/swatchly/"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:239
+#: includes/Admin/Global_Settings.php:408
+#: includes/Admin/Global_Settings.php:581
+msgid "If a swatch is selected, clicking on it will deselect it."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:275
+#: includes/Admin/Global_Settings.php:447
+#: includes/Admin/Global_Settings.php:603
+msgid ""
+"If disabled, an out of stock message will be shown instead of showing the "
+"variations form / swatches."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1516
+msgid ""
+"If you check this option. This plugin will stop working untill you uncheck "
+"this."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:187
+#: includes/Admin/Global_Settings.php:358
+#: includes/Admin/Global_Settings.php:531
+msgid ""
+"If you check this options. When a watch type is \"image\" and has an image. "
+"The image will be shown into the tooltip."
+msgstr ""
+
+#: includes/Admin/Woo_Config.php:33
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:33
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:54
+#: includes/Admin/Product_Metabox.php:198
+#: includes/Admin/Product_Metabox.php:307
+msgid "Image"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:41
+msgid "Image Size"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1521
+msgid "Import / Export Settings"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:144
+#: includes/Admin/Product_Metabox.php:279
+#: includes/Admin/Product_Metabox.php:305
+msgid "Inherit"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:52
+msgid "JustTables"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:67
+msgid ""
+"JustTables is an incredible WordPress plugin that lets you showcase all your "
+"WooCommerce products in a sortable and filterable table view. It allows your "
+"customers to easily navigate through different attributes of the products "
+"and compare them on a single page. This plugin will be of great help if you "
+"are looking for an easy solution that increases the chances of landing a "
+"sale on your online store."
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:64
+msgid "JustTables Pro"
+msgstr ""
+
+#: includes/Admin/Woo_Config.php:31
+msgid "Label"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:780
+msgid "Leave it empty for default."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:717
+msgid ""
+"Leave it empty, if you are not a technial person or don't have any coding "
+"knowldge.<br>\n"
+"                        Using any invalid code you may experience fatal "
+"error in your site but no worries! You can still access to this page & "
+"removing the condition code from here will solve the error. <br>\n"
+"                        Reference: <a href=\"https://codex.wordpress."
+"org/Conditional_Tags\" target=\"_blank\">WordPress conditional tags</a> |  "
+"<a href=\"https://docs.woocommerce.com/document/conditional-tags/\" "
+"target=\"_blank\">WooCommerce conditional tags</a>"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:635
+msgid "Left"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:38
+msgid "Made with Love by HasThemes"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1334
+#: includes/Admin/Global_Settings.php:1479
+msgid "Minus value is also allowed."
+msgstr ""
+
+#: includes/Admin.php:114
+msgid "More Details"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:84
+msgid "Multi Currency Pro for WooCommerce"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:87
+msgid ""
+"Multi-Currency Pro for WooCommerce is a prominent currency switcher plugin "
+"for WooCommerce. This plugin allows your website or online store visitors to "
+"switch to their preferred currency or their country’s currency."
+msgstr ""
+
+#: includes/ajax-actions.php:78 includes/ajax-actions.php:101
+#: includes/ajax-actions.php:128
+msgid "No naughty business please!"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:807
+#: includes/Admin/Global_Settings.php:1018
+msgid "Normal"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:693
+msgid ""
+"Note: Some themes remove the default product image. In this case, variation "
+"image will not be changed after choose a variation. Here you can place the "
+"CSS selector of the product thumbnail, so the product image will be chagned "
+"once a variation is choosen."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:708
+msgid "Number of Swatch to Show"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1509
+msgid "Other Settings"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:716
+msgid "Place the condition code here"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:42
+#: includes/Admin/Product_Metabox.php:110
+msgid ""
+"Place the image size name here. WordPress default image sizes are: thumbnail,"
+" medium, medium_large, large and full. Custom image size also can be used. "
+"Default is: thumbnail"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:82
+#, php-format
+msgid ""
+"Place the image size name here. WordPress default image sizes are: thumbnail,"
+" medium, medium_large, large and full. Custom image size also can be used. "
+"Leave it empty to use the vlaue from %s."
+msgstr ""
+
+#: includes/Frontend/Woo_Config.php:578
+msgid ""
+"Please make sure that are using this shortcode inside product loop/list. "
+"Otherwise it worn't work."
+msgstr ""
+
+#: includes/Admin.php:109
+msgid "Pro Notice"
+msgstr ""
+
+#: includes/Admin.php:112
+msgid "Pro Version is Required!"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:613
+msgid "Product List / Shop"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:692
+msgid "Product Thumbnail Seletor"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:30
+msgid "Recommended Plugins"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:227
+#: includes/Admin/Product_Metabox.php:336
+#: includes/Admin/Product_Metabox.php:386
+msgid "Remove image"
+msgstr ""
+
+#: includes/ajax-actions.php:141
+msgid "Reset Done!"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:63
+msgid "Reset to Default"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:637
+msgid "Right"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:169
+msgid "Rounded"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:62
+msgid "Save Swatches"
+msgstr ""
+
+#: includes/ajax-actions.php:115
+msgid "Saved!"
+msgstr ""
+
+#: includes/Admin.php:95
+msgid "Saving..."
+msgstr ""
+
+#: includes/Admin/Woo_Config.php:30 includes/Admin/Global_Settings.php:749
+msgid "Select"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:745
+msgid "Select Global Attributes (For Catalog)"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:941
+#: includes/Admin/Global_Settings.php:1135
+msgid "Selected"
+msgstr ""
+
+#. 1: Settings label
+#: includes/Admin.php:54 includes/Admin/Global_Settings.php:26
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:221
+#: includes/Admin/Global_Settings.php:388
+#: includes/Admin/Global_Settings.php:561
+msgid "Shape inset is the empty space arround the swatch."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:227
+#: includes/Admin/Global_Settings.php:395
+#: includes/Admin/Global_Settings.php:568
+msgid "Shape Inset Size"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:207
+#: includes/Admin/Global_Settings.php:373
+#: includes/Admin/Global_Settings.php:546
+#: includes/Admin/Product_Metabox.php:163
+msgid "Shape Style"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:626
+msgid "Show Clear Link"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:245
+#: includes/Admin/Global_Settings.php:415
+msgid "Show Selected Variation Name"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:186
+#: includes/Admin/Global_Settings.php:357
+#: includes/Admin/Global_Settings.php:530
+msgid "Show Swatch Image into The Tooltip"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:619
+msgid "Show Swatches Label"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:663
+msgid ""
+"Some themes remove the above positions. In that case, custom position is "
+"useful. Here you can place the custom/default hook name & priority to inject "
+"& adjust the swatches for the product loop."
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:168
+msgid "Squared"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:837
+#: includes/Admin/Global_Settings.php:920
+#: includes/Admin/Global_Settings.php:956
+#: includes/Admin/Global_Settings.php:990
+#: includes/Admin/Global_Settings.php:1031
+#: includes/Admin/Global_Settings.php:1114
+#: includes/Admin/Global_Settings.php:1150
+#: includes/Admin/Global_Settings.php:1184
+msgid "Swatch Background Color"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:845
+#: includes/Admin/Global_Settings.php:931
+#: includes/Admin/Global_Settings.php:966
+#: includes/Admin/Global_Settings.php:1000
+#: includes/Admin/Global_Settings.php:1039
+#: includes/Admin/Global_Settings.php:1125
+#: includes/Admin/Global_Settings.php:1160
+#: includes/Admin/Global_Settings.php:1194
+msgid "Swatch Border"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:91
+#: includes/Admin/Product_Metabox.php:355
+msgid "Swatch Color"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:106
+#: includes/Admin/Product_Metabox.php:367
+msgid "Swatch Color 2"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:373
+msgid "Swatch Image"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:185
+#: includes/Admin/Global_Settings.php:356
+#: includes/Admin/Global_Settings.php:529
+msgid "Swatch Image as Tooltip"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:394
+msgid "Swatch Image Size"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:857
+#: includes/Admin/Global_Settings.php:1051
+msgid "Swatch Item Margin"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:869
+#: includes/Admin/Global_Settings.php:1063
+msgid "Swatch Item Padding"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:166
+#: includes/Admin/Global_Settings.php:335
+#: includes/Admin/Global_Settings.php:508
+msgid "Swatch Minimum Height"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:154
+#: includes/Admin/Global_Settings.php:322
+#: includes/Admin/Global_Settings.php:495
+msgid "Swatch Minimum Width"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:813
+#: includes/Admin/Global_Settings.php:910
+#: includes/Admin/Global_Settings.php:947
+#: includes/Admin/Global_Settings.php:981
+#: includes/Admin/Global_Settings.php:1024
+#: includes/Admin/Global_Settings.php:1104
+#: includes/Admin/Global_Settings.php:1141
+#: includes/Admin/Global_Settings.php:1175
+msgid "Swatch Text Color"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:820
+msgid "Swatch Text Font Size"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:828
+msgid "Swatch Text Line Height"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:50
+#: includes/Admin/Product_Metabox.php:192
+#: includes/Admin/Product_Metabox.php:301
+msgid "Swatch Tooltip"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:142
+#: includes/Admin/Product_Metabox.php:277
+msgid "Swatch Type"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:633
+msgid "Swatches Align"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:645
+msgid "Swatches Position"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:34
+msgid "Swatches Settings"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:298
+msgid "Swatches will be enabled for the product details page."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:471
+msgid "Swatches will be enabled for the Product List / Shop."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:881
+#: includes/Admin/Global_Settings.php:1075
+msgid "Swatches Wrapper Margin"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:893
+#: includes/Admin/Global_Settings.php:1087
+msgid "Swatches Wrapper Padding"
+msgstr ""
+
+#: swatchly.php:188 includes/Admin.php:34
+msgid "Swatchly"
+msgstr ""
+
+#. Name of the plugin
+msgid "Swatchly - Variation Swatches for WooCommerce Products"
+msgstr ""
+
+#: includes/Admin.php:33 includes/Admin/Global_Settings.php:28
+msgid "Swatchly Settings"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:53
+#: includes/Admin/Product_Metabox.php:197
+#: includes/Admin/Product_Metabox.php:306
+msgid "Text"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:804
+#: includes/Admin/Global_Settings.php:1218
+msgid ""
+"These customizations will be applied for the swatches which is located in "
+"\"Single Product\" and \"Product List\" Page."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1015
+#: includes/Admin/Global_Settings.php:1363
+msgid ""
+"These customizations will be applied only for the \"Product List\" page's "
+"swatches."
+msgstr ""
+
+#: includes/Admin.php:113
+msgid "This feature is available in the pro version."
+msgstr ""
+
+#: includes/Frontend/Woo_Config.php:616 includes/Frontend/Woo_Config.php:684
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:178
+#: includes/Admin/Global_Settings.php:348
+#: includes/Admin/Global_Settings.php:521
+#: includes/Admin/Global_Settings.php:1221
+#: includes/Admin/Global_Settings.php:1366
+msgid "Tooltip"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1310
+#: includes/Admin/Global_Settings.php:1455
+msgid "Tooltip Arrow"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1316
+#: includes/Admin/Global_Settings.php:1461
+msgid "Tooltip Arrow Color"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1325
+#: includes/Admin/Global_Settings.php:1470
+msgid "Tooltip Arrow Size"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1333
+#: includes/Admin/Global_Settings.php:1478
+msgid "Tooltip Arrow Spacing"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1246
+#: includes/Admin/Global_Settings.php:1391
+msgid "Tooltip Background Color"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1254
+#: includes/Admin/Global_Settings.php:1399
+msgid "Tooltip Border"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1217
+msgid "Tooltip Customize"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1362
+msgid "Tooltip Customize (Product List)"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1344
+#: includes/Admin/Global_Settings.php:1489
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:72
+#: includes/Admin/Product_Metabox.php:214
+#: includes/Admin/Product_Metabox.php:323
+msgid "Tooltip Image"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1350
+#: includes/Admin/Global_Settings.php:1495
+msgid "Tooltip Image Border"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:193
+#: includes/Admin/Global_Settings.php:365
+#: includes/Admin/Global_Settings.php:538
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:80
+#: includes/Admin/Product_Metabox.php:235
+#: includes/Admin/Product_Metabox.php:344
+msgid "Tooltip Image Size"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1236
+#: includes/Admin/Global_Settings.php:1381
+msgid "Tooltip Maximum Width"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1262
+#: includes/Admin/Global_Settings.php:1407
+msgid "Tooltip Spacing"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1273
+#: includes/Admin/Global_Settings.php:1418
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:64
+#: includes/Admin/Product_Metabox.php:206
+#: includes/Admin/Product_Metabox.php:315
+msgid "Tooltip Text"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1279
+#: includes/Admin/Global_Settings.php:1424
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1286
+#: includes/Admin/Global_Settings.php:1431
+msgid "Tooltip Text Font Size"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1295
+#: includes/Admin/Global_Settings.php:1440
+msgid "Tooltip Text Line Height"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1304
+#: includes/Admin/Global_Settings.php:1449
+msgid "Tooltip Text Padding"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:1227
+#: includes/Admin/Global_Settings.php:1372
+msgid "Tooltip Width"
+msgstr ""
+
+#: includes/Admin/Product_Metabox.php:226
+#: includes/Admin/Product_Metabox.php:335
+#: includes/Admin/Product_Metabox.php:385
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/Admin/Attribute_Taxonomy_Metabox.php:52
+msgid "Use Global Setting"
+msgstr ""
+
+#: includes/Admin.php:97
+msgid "Use image"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:654
+msgid "Use Shortcode"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:252
+#: includes/Admin/Global_Settings.php:423
+msgid "Variation Label Separator"
+msgstr ""
+
+#. Description of the plugin
+msgid "Variation Swatches for WooCommerce Products"
+msgstr ""
+
+#: includes/ajax-actions.php:48
+msgid "View Cart"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:289
+msgid ""
+"Want to control the \"Global\" settings for Product Details page differently?"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:462
+msgid "Want to control the \"Global\" settings for shop page differently?"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:77
+msgid ""
+"Whols is an outstanding WordPress plugin for WooCommerce that allows store "
+"owners to set wholesale prices for the products of their online stores. This "
+"plugin enables you to show special wholesale prices to the wholesaler. Users "
+"can easily request to become a wholesale customer by filling out a simple "
+"online registration form. Once the registration is complete, the owner of "
+"the store will be able to review the request and approve the request either "
+"manually or automatically."
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:74
+msgid "Whols Pro – WooCommerce Wholesale Prices"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:42
+msgid "WishSuite"
+msgstr ""
+
+#: swatchly.php:189
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:37
+msgid "WooLentor – WooCommerce Elementor Addons + Builder"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:114
+msgid "WP Plugin Manager Pro"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:117
+msgid ""
+"WP Plugin Manager Pro is a specialized WordPress Plugin that helps you to "
+"deactivate unnecessary WordPress Plugins page wise and boosts the speed of "
+"your WordPress site to improve the overall site performance."
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:760
+msgid ""
+"Write each attribute per line. Note: The custom attributes values are <b>"
+"Case Sensitive</b>"
+msgstr ""
+
+#: includes/Admin/Global_Settings.php:246
+#: includes/Admin/Global_Settings.php:274
+#: includes/Admin/Global_Settings.php:290
+#: includes/Admin/Global_Settings.php:416
+#: includes/Admin/Global_Settings.php:446
+#: includes/Admin/Global_Settings.php:463
+#: includes/Admin/Global_Settings.php:602
+#: includes/Admin/Global_Settings.php:620
+#: includes/Admin/Global_Settings.php:627
+msgid "Yes"
+msgstr ""
+
+#: includes/Admin/recommendations/init.php:58
+msgid "You May Also Like"
+msgstr ""

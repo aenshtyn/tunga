@@ -1,0 +1,1591 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TecheduEm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-26 08:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: techeduem"
+
+#: inc/footer/copyright.php:34
+msgid " All Rights Reserved."
+msgstr ""
+
+#: inc/global-functions.php:35
+msgid " Details"
+msgstr ""
+
+#: template-parts/content-creative.php:49
+#: template-parts/content-left-image.php:49
+#: template-parts/content-search.php:49 template-parts/content-single.php:182
+#: template-parts/formats/content-audio.php:57
+#: template-parts/formats/content-gallery.php:66
+#: template-parts/formats/content-link.php:45
+#: template-parts/formats/content-video.php:70
+#: template-parts/formats/content.php:72
+msgid "% Comments"
+msgstr ""
+
+#: inc/woo-config.php:143
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/comment-form.php:37 inc/comment-form.php:89
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/woo-config.php:259
+#, php-format
+msgid "%s in stock"
+msgstr ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:29
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: inc/comment-form.php:90
+msgid "&nbsp;&nbsp;"
+msgstr ""
+
+#: inc/comment-form.php:90
+msgid "&nbsp;&nbsp;-"
+msgstr ""
+
+#: inc/woo-config.php:252 inc/woo-config.php:261
+msgid "(can be backordered)"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:38
+msgid "+"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:54 inc/template-tags.php:60
+msgid ", "
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:35
+msgid "-"
+msgstr ""
+
+#: inc/woo-config.php:138
+#, php-format
+msgid "- %1$s"
+msgstr ""
+
+#: functions.php:386 inc/metabox/metabox.php:12
+msgid "--- Select ---"
+msgstr ""
+
+#: inc/footer/default.php:89
+msgid ". All Rights Reserved."
+msgstr ""
+
+#: template-parts/content-creative.php:49
+#: template-parts/content-left-image.php:49
+#: template-parts/content-search.php:49 template-parts/content-single.php:182
+#: template-parts/formats/content-audio.php:57
+#: template-parts/formats/content-gallery.php:66
+#: template-parts/formats/content-link.php:45
+#: template-parts/formats/content-video.php:70
+#: template-parts/formats/content.php:72
+msgid "1 Comment"
+msgstr ""
+
+#: inc/metabox-expand.php:154
+msgid "100"
+msgstr ""
+
+#: inc/metabox-expand.php:155
+msgid "200"
+msgstr ""
+
+#: inc/metabox-expand.php:156
+msgid "300"
+msgstr ""
+
+#: inc/metabox-expand.php:157
+msgid "400"
+msgstr ""
+
+#: 404.php:26
+msgid "404"
+msgstr ""
+
+#: inc/metabox-expand.php:158
+msgid "500"
+msgstr ""
+
+#: inc/metabox-expand.php:159
+msgid "600"
+msgstr ""
+
+#: inc/metabox-expand.php:160
+msgid "700"
+msgstr ""
+
+#: inc/metabox-expand.php:161
+msgid "800"
+msgstr ""
+
+#: inc/metabox-expand.php:162
+msgid "900"
+msgstr ""
+
+#: woocommerce/content-product.php:114
+msgid ":"
+msgstr ""
+
+#: inc/metabox-expand.php:465
+msgid "Add or Upload File"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:75
+msgid "Add To cart"
+msgstr ""
+
+#: inc/widget-register.php:15 inc/widget-register.php:25
+#: inc/widget-register.php:36 inc/widget-register.php:55
+msgid "Add widgets here."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:149
+#, php-format
+msgid "Added on : %s"
+msgstr ""
+
+#: inc/demo-import.php:17
+msgid "After you import this demo, you will have setup all content."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:241
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:101
+msgid "AND"
+msgstr ""
+
+#. %s: taxonomy name
+#: woocommerce/classes/class-wc-widget-layered-nav.php:241
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:279
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:179 inc/page-header/breadcrumb.php:183
+#: inc/page-header/breadcrumb.php:187 inc/page-header/breadcrumb.php:193
+#: inc/page-header/breadcrumb.php:197 inc/page-header/breadcrumb.php:201
+msgid "Archives"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:251
+msgid "Ask for an estimate"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:84
+msgid "Attribute"
+msgstr ""
+
+#: inc/metabox/metabox.php:57
+msgid "Audio URL"
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:211
+msgid "Author: "
+msgstr ""
+
+#: inc/woo-config.php:267 woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/content-quickview-product.php:36
+#: woocommerce/single-product/product-image.php:55
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/metabox/metabox.php:149
+msgid "Background"
+msgstr ""
+
+#: inc/metabox-expand.php:423
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/metabox-expand.php:387
+msgid "Background Color"
+msgstr ""
+
+#: inc/metabox-expand.php:447
+msgid "Background Image"
+msgstr ""
+
+#: inc/metabox-expand.php:435
+msgid "Background Position"
+msgstr ""
+
+#: inc/metabox-expand.php:399
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/metabox-expand.php:411
+msgid "Background Size"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:231
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:221
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:226
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Name of the template
+msgid "Blank Template"
+msgstr ""
+
+#: inc/global-functions.php:20
+msgid "Blog"
+msgstr ""
+
+#: inc/global-functions.php:39
+msgid "Blog Details"
+msgstr ""
+
+#. Name of the template
+msgid "Both Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Both Sidebar Full"
+msgstr ""
+
+#: inc/metabox-expand.php:532 inc/metabox-expand.php:596
+msgid "Bottom"
+msgstr ""
+
+#: inc/metabox/metabox.php:137
+msgid "Boxed"
+msgstr ""
+
+#: inc/metabox/metabox.php:375
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/metabox/metabox.php:354
+msgid "Breadcrumbs Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:364
+msgid "Breadcrumbs Mobile Devices Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:381
+msgid "Breadcrumbs Typography"
+msgstr ""
+
+#: template-parts/content-creative.php:37
+#: template-parts/content-left-image.php:37
+#: template-parts/content-search.php:37 template-parts/content-single.php:170
+#: template-parts/formats/content-audio.php:45
+#: template-parts/formats/content-gallery.php:54
+#: template-parts/formats/content-link.php:33
+#: template-parts/formats/content-video.php:58
+#: template-parts/formats/content.php:60
+msgid "By:"
+msgstr ""
+
+#: inc/metabox-expand.php:140
+msgid "Capitalize"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:29
+msgid "Cart"
+msgstr ""
+
+#: inc/metabox/metabox.php:393
+msgid "Center"
+msgstr ""
+
+#: inc/metabox-expand.php:359
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/metabox-expand.php:358
+msgid "Center Center"
+msgstr ""
+
+#: inc/metabox-expand.php:357
+msgid "Center Top"
+msgstr ""
+
+#: inc/metabox/metabox.php:199
+msgid "Choose the header layout."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:79
+msgid "CMB2"
+msgstr ""
+
+#: inc/metabox-expand.php:659
+msgid "Color"
+msgstr ""
+
+#: comments.php:80
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/content-creative.php:49
+#: template-parts/content-left-image.php:49
+#: template-parts/content-search.php:49 template-parts/content-single.php:182
+#: template-parts/formats/content-audio.php:57
+#: template-parts/formats/content-gallery.php:66
+#: template-parts/formats/content-link.php:45
+#: template-parts/formats/content-video.php:70
+#: template-parts/formats/content.php:72
+msgid "Comments off"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woo-config.php:469 inc/woo-config.php:472 inc/woo-config.php:473
+msgid "Compare"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:89
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/metabox-expand.php:318
+msgid "Contain"
+msgstr ""
+
+#: inc/metabox/metabox.php:387
+msgid "Content Alignment"
+msgstr ""
+
+#: inc/metabox/metabox.php:144
+msgid "Content Padding"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/metabox/metabox.php:436
+msgid "Controls the background of the page title area."
+msgstr ""
+
+#: inc/metabox/metabox.php:442
+msgid "Controls the background overlay of the page title area."
+msgstr ""
+
+#: inc/metabox/metabox.php:388
+msgid ""
+"Controls the content alignment of the page title. if the default is chosen "
+"the theme options will work."
+msgstr ""
+
+#: inc/metabox/metabox.php:430
+msgid ""
+"Controls the height of the page title area on mobile device. Enter value "
+"excluding any valid CSS unit, ex: 80"
+msgstr ""
+
+#: inc/metabox/metabox.php:424
+msgid ""
+"Controls the height of the page title area. Enter value excluding any valid "
+"CSS unit, ex: 100"
+msgstr ""
+
+#: inc/metabox/metabox.php:382
+msgid "Controls the typography settings of the page breadcrumbs."
+msgstr ""
+
+#: inc/metabox/metabox.php:345
+msgid "Controls the typography settings of the page subtitle."
+msgstr ""
+
+#: inc/metabox/metabox.php:311
+msgid "Controls the typography settings of the page title."
+msgstr ""
+
+#: inc/footer/copyright.php:32 inc/footer/default.php:86
+msgid "Copyright"
+msgstr ""
+
+#: woocommerce/cart/cart.php:153
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150
+msgid "Coupon:"
+msgstr ""
+
+#: inc/metabox-expand.php:317
+msgid "Cover"
+msgstr ""
+
+#: functions.php:428
+msgid "Create Menu"
+msgstr ""
+
+#: inc/metabox/metabox.php:189 inc/metabox/metabox.php:472
+msgid "Custom"
+msgstr ""
+
+#: inc/metabox/metabox.php:330
+msgid "Custom Sub Title"
+msgstr ""
+
+#: inc/metabox/metabox.php:300
+msgid "Custom Title"
+msgstr ""
+
+#: inc/metabox/metabox.php:136 inc/metabox/metabox.php:165
+#: inc/metabox/metabox.php:177 inc/metabox/metabox.php:188
+#: inc/metabox/metabox.php:391 inc/metabox/metabox.php:404
+#: inc/metabox/metabox.php:415 inc/metabox/metabox.php:460
+#: inc/metabox/metabox.php:471
+msgid "Default"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:24
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:90
+msgid "Display type"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:93
+msgid "Dropdown"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:76 template-parts/content-page.php:35
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. Description of the theme
+msgid "Education WordPress Theme"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:94
+msgid "Elementor"
+msgstr ""
+
+#: inc/metabox/metabox.php:259
+msgid "Enable full width of the header."
+msgstr ""
+
+#: inc/metabox/metabox.php:173
+msgid "Enable Header"
+msgstr ""
+
+#: inc/metabox/metabox.php:457
+msgid ""
+"Enable or disable footer. if the default is chosen the theme options will "
+"work."
+msgstr ""
+
+#: inc/metabox/metabox.php:174
+msgid ""
+"Enable or disable header. if the default is chosen the theme options will "
+"work."
+msgstr ""
+
+#: inc/metabox/metabox.php:355
+msgid "Enable or Disable the breadcrumbs."
+msgstr ""
+
+#: inc/metabox/metabox.php:321
+msgid "Enable or Disable the page subtitle."
+msgstr ""
+
+#: inc/metabox/metabox.php:281
+msgid "Enable or Disable the page title area."
+msgstr ""
+
+#: inc/metabox/metabox.php:291
+msgid "Enable or Disable the page title."
+msgstr ""
+
+#: inc/metabox/metabox.php:365
+msgid "Enable or disable to display breadcrumb on mobile devices."
+msgstr ""
+
+#: inc/metabox/metabox.php:162
+msgid ""
+"Enable or disable top bar. if the default is chosen the theme options will "
+"work."
+msgstr ""
+
+#: inc/metabox/metabox.php:401
+msgid ""
+"Enable to have the page title area display at 100% width according to the "
+"window size. Turn off to follow site width."
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:313
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: woocommerce/cart/cart.php:151
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:223
+msgid "Error 404"
+msgstr ""
+
+#: page-maintenance.php:36
+msgid "example.com is undergoing scheduled maintenance."
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:78
+msgid "Filter by"
+msgstr ""
+
+#: inc/metabox-expand.php:336
+msgid "Fixed"
+msgstr ""
+
+#: inc/metabox/metabox.php:511
+msgid "Fixed Footer"
+msgstr ""
+
+#: inc/metabox-expand.php:273
+msgid "Font Color"
+msgstr ""
+
+#: inc/metabox-expand.php:203
+msgid "Font Family"
+msgstr ""
+
+#: inc/metabox-expand.php:213
+msgid "Font Size"
+msgstr ""
+
+#: inc/metabox-expand.php:263
+msgid "Font style"
+msgstr ""
+
+#: inc/metabox-expand.php:253
+msgid "Font Weight"
+msgstr ""
+
+#: inc/metabox/metabox.php:452 inc/metabox/metabox.php:456
+msgid "Footer"
+msgstr ""
+
+#: inc/metabox/metabox.php:467
+msgid "Footer Type"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:133
+msgid "Free!"
+msgstr ""
+
+#: inc/metabox/metabox.php:417
+msgid "Full Height"
+msgstr ""
+
+#. Name of the template
+#: inc/metabox/metabox.php:96 inc/metabox/metabox.php:138
+msgid "Full Width"
+msgstr ""
+
+#: inc/metabox/metabox.php:71
+msgid "Gallery Slider"
+msgstr ""
+
+#: 404.php:51
+msgid "Go back to Home Page"
+msgstr ""
+
+#: inc/metabox/metabox.php:416
+msgid "Half Height"
+msgstr ""
+
+#. Author of the theme
+msgid "Hastech"
+msgstr ""
+
+#: inc/metabox/metabox.php:157
+msgid "Header"
+msgstr ""
+
+#: inc/metabox/metabox.php:258
+msgid "Header Full Width"
+msgstr ""
+
+#: inc/metabox/metabox.php:198
+msgid "Header Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:534
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/metabox/metabox.php:184
+msgid "Header Type"
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:32
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.wphash.com/techeduem/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://hastech.company/"
+msgstr ""
+
+#: inc/metabox/metabox.php:301
+msgid "If this field is empty, then default page/post title will be showed"
+msgstr ""
+
+#: inc/metabox/metabox.php:512
+msgid "If yes, this footer will be fixed"
+msgstr ""
+
+#: inc/metabox/metabox.php:535
+msgid "If yes, this header will be sticky"
+msgstr ""
+
+#: inc/metabox/metabox.php:546
+msgid "If yes, to make the header area transparent"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:42 woocommerce/cart/cart.php:31
+msgid "Image"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:140
+msgid "In Stock"
+msgstr ""
+
+#: inc/woo-config.php:246 inc/woo-config.php:255 inc/woo-config.php:270
+msgid "In stock"
+msgstr ""
+
+#: inc/metabox-expand.php:305 inc/metabox-expand.php:319
+#: inc/metabox-expand.php:338
+msgid "Inherit"
+msgstr ""
+
+#: inc/metabox-expand.php:142
+msgid "inherit"
+msgstr ""
+
+#: inc/metabox-expand.php:304 inc/metabox-expand.php:320
+#: inc/metabox-expand.php:339
+msgid "Initial"
+msgstr ""
+
+#: inc/metabox/metabox.php:58
+msgid "Insert your Audio file URL"
+msgstr ""
+
+#: inc/metabox/metabox.php:65
+msgid "Insert your Cite"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:173
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:172
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:174
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/metabox-expand.php:176
+msgid "Italic"
+msgstr ""
+
+#: inc/metabox/metabox.php:131
+msgid "Layout Width"
+msgstr ""
+
+#: comments.php:82
+msgid "Leave a Comment"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:69
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/metabox-expand.php:543 inc/metabox-expand.php:607
+#: inc/metabox/metabox.php:392
+msgid "Left"
+msgstr ""
+
+#: inc/metabox-expand.php:356
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/metabox-expand.php:355
+msgid "Left Center"
+msgstr ""
+
+#: inc/widget-register.php:23 inc/metabox/metabox.php:97
+msgid "Left Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metabox-expand.php:354
+msgid "Left Top"
+msgstr ""
+
+#: inc/metabox-expand.php:233
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/metabox-expand.php:223
+msgid "Line Height"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:92
+msgid "List"
+msgstr ""
+
+#: inc/metabox-expand.php:337
+msgid "Local"
+msgstr ""
+
+#: inc/header/header-top-bar.php:94 inc/header/header-top-bar.php:184
+msgid "Logout"
+msgstr ""
+
+#: inc/header/header-top-bar.php:77 inc/header/header-top-bar.php:167
+msgid "Lorem ipsum dolor sit amet"
+msgstr ""
+
+#: inc/metabox-expand.php:138
+msgid "lowercase"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:99
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: page-maintenance.php:35
+msgid "Maintenance mode active"
+msgstr ""
+
+#: inc/header/header-2.php:68
+msgid "menu"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:161
+msgid "Move"
+msgstr ""
+
+#: inc/comment-nav.php:11
+msgid "Newer Comments"
+msgstr ""
+
+#: template-parts/content-single.php:248
+msgid "next post"
+msgstr ""
+
+#: inc/metabox/metabox.php:167 inc/metabox/metabox.php:179
+#: inc/metabox/metabox.php:263 inc/metabox/metabox.php:285
+#: inc/metabox/metabox.php:295 inc/metabox/metabox.php:325
+#: inc/metabox/metabox.php:359 inc/metabox/metabox.php:369
+#: inc/metabox/metabox.php:406 inc/metabox/metabox.php:462
+#: inc/metabox/metabox.php:516 inc/metabox/metabox.php:539
+#: inc/metabox/metabox.php:550
+msgid "No"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:239
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: template-parts/content-creative.php:49
+#: template-parts/content-left-image.php:49
+#: template-parts/content-search.php:49 template-parts/content-single.php:182
+#: template-parts/formats/content-audio.php:57
+#: template-parts/formats/content-gallery.php:66
+#: template-parts/formats/content-link.php:45
+#: template-parts/formats/content-video.php:70
+#: template-parts/formats/content.php:72
+msgid "No Comments"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:88
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:210
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: inc/metabox-expand.php:303
+msgid "No-Repeat"
+msgstr ""
+
+#: inc/metabox-expand.php:141
+msgid "none"
+msgstr ""
+
+#: inc/metabox-expand.php:175
+msgid "Normal"
+msgstr ""
+
+#: 404.php:22
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/comment-nav.php:6
+msgid "Older Comments"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:109
+msgid "One Click Demo"
+msgstr ""
+
+#: functions.php:67
+msgid "One Page Menu"
+msgstr ""
+
+#: inc/woo-config.php:250
+#, php-format
+msgid "Only %s left in stock"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:162
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:102
+msgid "OR"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:140
+msgid "Out of Stock"
+msgstr ""
+
+#: inc/woo-config.php:273 inc/woo-config.php:277
+msgid "Out of stock"
+msgstr ""
+
+#: inc/metabox/metabox.php:237
+msgid ""
+"Override the primary menu by selecting one of these. if nothing is selected "
+"primary menu will work."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:167
+msgctxt "Pacifico font: on or off"
+msgid "on"
+msgstr ""
+
+#: template-parts/content-creative.php:70
+#: template-parts/content-left-image.php:70 template-parts/content-page.php:23
+#: template-parts/content-search.php:70 template-parts/content-single.php:202
+#: inc/breadcrumb/breadcrumb.php:144 inc/metabox/metabox.php:128
+#: inc/page-header/breadcrumb.php:215
+#: template-parts/formats/content-audio.php:80
+#: template-parts/formats/content-gallery.php:89
+#: template-parts/formats/content-link.php:68
+#: template-parts/formats/content-quote.php:26
+#: template-parts/formats/content-quote.php:45
+#: template-parts/formats/content-video.php:93
+#: template-parts/formats/content.php:94
+msgid "Page"
+msgstr ""
+
+#: 404.php:32
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: inc/metabox/metabox.php:107
+msgid "Page Options"
+msgstr ""
+
+#: template-parts/content-creative.php:68
+#: template-parts/content-left-image.php:68 template-parts/content-page.php:19
+#: template-parts/content-search.php:68 template-parts/content-single.php:198
+#: template-parts/formats/content-audio.php:78
+#: template-parts/formats/content-gallery.php:87
+#: template-parts/formats/content-link.php:66
+#: template-parts/formats/content-quote.php:24
+#: template-parts/formats/content-quote.php:43
+#: template-parts/formats/content-video.php:91
+#: template-parts/formats/content.php:92
+msgid "Pages:"
+msgstr ""
+
+#: inc/comment-form.php:43
+msgid "Permalink"
+msgstr ""
+
+#: inc/page-header/page-title.php:201 inc/page-header/single-post-title.php:139
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:15 inc/header/default.php:164
+msgctxt "placeholder"
+msgid "Search Here"
+msgstr ""
+
+#: inc/header/header-5.php:153
+msgctxt "placeholder"
+msgid "Search product Here"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Poppins, translate this to 'off'. Do not translate into your own language.
+#: functions.php:172
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:242
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:237
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:240
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Poppins, translate this to 'off'. Do not translate into your own language.
+#: functions.php:177
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:36
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:31
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/metabox/metabox.php:34
+msgid "Post Format Additional Fields"
+msgstr ""
+
+#: inc/metabox/metabox.php:82
+msgid "Post Settings"
+msgstr ""
+
+#: inc/template-tags.php:56
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: template-parts/content-single.php:243
+msgid "prev post"
+msgstr ""
+
+#: inc/metabox-expand.php:480
+msgid "Preview Image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr ""
+
+#: functions.php:66
+msgid "Primary"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:175
+msgid "Private"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:64
+msgid "Product"
+msgstr ""
+
+#: inc/woo-config.php:438
+msgid "Product Comparison"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:45
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:177
+msgid "Public"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:90
+#: woocommerce/global/quantity-input.php:32
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:99
+msgid "Query type"
+msgstr ""
+
+#: woocommerce/single-product/short-description.php:34
+msgid "Quick Overview"
+msgstr ""
+
+#: woocommerce/content-product.php:145
+msgid "Quick View"
+msgstr ""
+
+#: inc/metabox/metabox.php:64
+msgid "Quote Cite"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:84
+msgid "Redux Framework"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:83 woocommerce/wishlist-view.php:191
+#: woocommerce/cart/cart.php:36
+msgid "Remove"
+msgstr ""
+
+#: inc/metabox-expand.php:482
+msgid "Remove Image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119 woocommerce/cart/mini-cart.php:63
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:191 woocommerce/wishlist-view.php:199
+msgid "Remove this product"
+msgstr ""
+
+#: inc/metabox-expand.php:300
+msgid "Repeat"
+msgstr ""
+
+#: inc/metabox-expand.php:301
+msgid "Repeat-X"
+msgstr ""
+
+#: inc/metabox-expand.php:302
+msgid "Repeat-Y"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:236
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/metabox-expand.php:521 inc/metabox-expand.php:585
+#: inc/metabox/metabox.php:394
+msgid "Right"
+msgstr ""
+
+#: inc/metabox-expand.php:362
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/metabox-expand.php:361
+msgid "Right Center"
+msgstr ""
+
+#: inc/widget-register.php:13 inc/metabox/metabox.php:98
+msgid "Right Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metabox-expand.php:360
+msgid "Right Top"
+msgstr ""
+
+#: inc/metabox-expand.php:335
+msgid "Scroll"
+msgstr ""
+
+#: inc/page-header/breadcrumb.php:219
+msgid "Search results for: "
+msgstr ""
+
+#: inc/metabox-expand.php:137 inc/metabox-expand.php:153
+#: inc/metabox-expand.php:174 inc/metabox-expand.php:299
+#: inc/metabox-expand.php:316 inc/metabox-expand.php:334
+#: inc/metabox-expand.php:353
+msgid "Select"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:37
+msgid "Select "
+msgstr ""
+
+#: inc/metabox/metabox.php:478
+msgid "Select Footer Style"
+msgstr ""
+
+#: inc/metabox/metabox.php:468
+msgid ""
+"Select footer type, if the default is chosen the existing design will work, "
+"or choose the custom option to get headers from footer post type."
+msgstr ""
+
+#: inc/metabox/metabox.php:247
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/metabox/metabox.php:185
+msgid ""
+"Select header type, if the default is chosen the existing options below will "
+"work, or choose the custom option to get headers from header post type."
+msgstr ""
+
+#: inc/metabox/metabox.php:95
+msgid "Select Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:236
+msgid "Select Menu"
+msgstr ""
+
+#: inc/metabox/metabox.php:90
+msgid "Select Page Layout"
+msgstr ""
+
+#: inc/metabox/metabox.php:479
+msgid "Select the footer template/style that you made in the footer post type."
+msgstr ""
+
+#: inc/metabox/metabox.php:248
+msgid "Select the header template/style that you made in the header post type."
+msgstr ""
+
+#: inc/metabox/metabox.php:132
+msgid ""
+"Select the site layout. if the default is chosen the theme options will work."
+msgstr ""
+
+#: inc/metabox/metabox.php:376
+msgid "Set the breadcrumb separator here."
+msgstr ""
+
+#: inc/metabox/metabox.php:331
+msgid "Set the custom sub title of the page."
+msgstr ""
+
+#: template-parts/content-single.php:226
+msgid "Share:"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:173
+msgid "Shared"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:175
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: page-maintenance.php:37
+msgid "Sorry for the inconvenience."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:216
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:186
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:201
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:157
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:64
+msgid "Stock Status"
+msgstr ""
+
+#: inc/metabox/metabox.php:320
+msgid "Sub Title Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:344
+msgid "Sub Title Typography"
+msgstr ""
+
+#: comments.php:78
+msgid "Submit Comment"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:81
+msgid "Subtotal"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:142
+msgid "Swatchly – Variation Swatches for WooCommerce Products"
+msgstr ""
+
+#: inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: template-parts/content-single.php:214
+msgid "Tags:"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:62
+msgid "TechEdu Core"
+msgstr ""
+
+#: inc/metabox/metabox.php:503
+msgid "Techedu Footer Options"
+msgstr ""
+
+#: inc/metabox/metabox.php:526
+msgid "Techedu Header Options"
+msgstr ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:26
+msgid "Techedu: Products Attribute"
+msgstr ""
+
+#. Name of the theme
+msgid "TecheduEm"
+msgstr ""
+
+#: inc/metabox-expand.php:243
+msgid "Text Transform"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:191
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:238
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:211
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:206
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 404.php:38
+msgid "The page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:196
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:181
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm-plugin/required-plugins.php:176
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/classes/class-wc-widget-layered-nav.php:79
+msgid "Title"
+msgstr ""
+
+#: inc/metabox/metabox.php:290
+msgid "Title Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:310
+msgid "Title Typography"
+msgstr ""
+
+#: inc/metabox/metabox.php:276
+msgid "Title Wrapper"
+msgstr ""
+
+#: inc/metabox/metabox.php:435
+msgid "Title Wrapper Background"
+msgstr ""
+
+#: inc/metabox/metabox.php:280
+msgid "Title Wrapper Enable"
+msgstr ""
+
+#: inc/metabox/metabox.php:400
+msgid "Title Wrapper Full Width"
+msgstr ""
+
+#: inc/metabox/metabox.php:412
+msgid "Title Wrapper Height"
+msgstr ""
+
+#: inc/metabox/metabox.php:441
+msgid "Title Wrapper Overlay"
+msgstr ""
+
+#: inc/metabox/metabox.php:423
+msgid "Title Wrapper Padding"
+msgstr ""
+
+#: inc/metabox/metabox.php:429
+msgid "Title Wrapper Padding On Phone"
+msgstr ""
+
+#: inc/metabox-expand.php:510 inc/metabox-expand.php:574
+msgid "Top"
+msgstr ""
+
+#: inc/metabox/metabox.php:161
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:68
+msgid "Top Bar Left menu"
+msgstr ""
+
+#: functions.php:69
+msgid "Top Bar Right menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:108
+msgid "Total"
+msgstr ""
+
+#: inc/metabox/metabox.php:545
+msgid "Transparent Header"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:52
+msgid "Unit Price"
+msgstr ""
+
+#: inc/metabox-expand.php:321 inc/metabox-expand.php:340
+msgid "Unset"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Update cart"
+msgstr ""
+
+#: inc/metabox/metabox.php:47 inc/metabox/metabox.php:52
+msgid "Upload Video"
+msgstr ""
+
+#: inc/metabox-expand.php:139
+msgid "UPPERCASE"
+msgstr ""
+
+#: inc/metabox/metabox.php:48
+msgid "Use this option when the video does not come from URL"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:134
+msgid "Variation swatches for WooCommerce"
+msgstr ""
+
+#: inc/metabox/metabox.php:42
+msgid "Video URL"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:104
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/widget-register.php:34
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/tgm-plugin/required-plugins.php:74
+msgid "WP Education – Education WordPress Plugin for Elementor"
+msgstr ""
+
+#: inc/header/default.php:159 inc/header/header-5.php:148
+msgid "x"
+msgstr ""
+
+#: inc/metabox/metabox.php:166 inc/metabox/metabox.php:178
+#: inc/metabox/metabox.php:262 inc/metabox/metabox.php:284
+#: inc/metabox/metabox.php:294 inc/metabox/metabox.php:324
+#: inc/metabox/metabox.php:358 inc/metabox/metabox.php:368
+#: inc/metabox/metabox.php:405 inc/metabox/metabox.php:461
+#: inc/metabox/metabox.php:515 inc/metabox/metabox.php:538
+#: inc/metabox/metabox.php:549
+msgid "Yes"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/comment-form.php:32 inc/comment-form.php:85
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:241
+msgid "Your email"
+msgstr ""
+
+#: comments.php:69
+msgid "Your Email *"
+msgstr ""
+
+#: comments.php:67
+msgid "Your Name *"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: comments.php:71
+msgid "Your Website"
+msgstr ""
